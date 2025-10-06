@@ -2889,4 +2889,62 @@ section.u-section:first-of-type img{
   max-width: 72px;   /* 必要なら調整 */
   height: auto;
 }
+/* ===== NoNPC overrides v2 (scoped, no side effects) ===== */
+:root{
+  --menu-size: 28px;            /* ハンバーガーの太さ/大きさ */
+  --menu-color: #6bd1ff;        /* ハンバーガーの色（画像の青） */
+  --roadmap-icon-size: 56px;    /* ロードマップの丸/ピンの大きさ */
+  --roadmap-icon-color: #d3ff00;/* ロードマップの黄緑 */
+  --hero-gap-title-bottom: 14px;/* タイトル下の余白 */
+  --hero-gap-image-top: 10px;   /* グリッチ顔の上余白 */
+}
+
+/* 0) 以前のグローバル指定を打ち消し（本文の色は各所の指定に任せる） */
+.u-icon{ color: inherit !important; }
+
+/* 1) ヒーロー（ページ最上部）の重なり防止：タイトルと画像の間隔を強制 */
+section.u-section:first-of-type [class^="u-text-"],
+section.u-section:first-of-type [class*=" u-text-"]{
+  margin-bottom: var(--hero-gap-title-bottom) !important;
+}
+section.u-section:first-of-type .u-image,
+section.u-section:first-of-type img{
+  margin-top: var(--hero-gap-image-top) !important;
+  height: auto;
+}
+
+/* 2) ハンバーガーメニュー（ヘッダー）— 色:青／右端から少し内側、前面に出す */
+@media (max-width: 991px){
+  .u-menu .menu-collapse{ display:block !important; margin-right:12px !important; }
+  .u-nav-container{ display:none !important; }
+  .u-nav-container-collapse{ display:block !important; }
+}
+header.u-header, .u-menu{ position:relative; z-index:10000 !important; }
+
+.u-menu .menu-collapse .u-icon,
+.u-menu .menu-collapse .u-svg-content,
+.u-menu .menu-collapse svg{
+  width: var(--menu-size) !important;
+  height: var(--menu-size) !important;
+  color: var(--menu-color) !important;         /* ← ③ 画像の青 */
+  fill: currentColor !important;
+  stroke: currentColor !important;             /* 線アイコン対策 */
+}
+.u-menu .menu-collapse .u-svg-link{ display:none !important; } /* 二重表示防止 */
+
+/* 3) ロードマップなど本文アイコンだけを大きく＆黄緑に（ヘッダーは触らない） */
+section.u-section .u-list .u-icon{
+  color: var(--roadmap-icon-color) !important;
+}
+section.u-section .u-list .u-icon .u-svg-content,
+section.u-section .u-list .u-icon svg{
+  width: var(--roadmap-icon-size) !important;
+  height: var(--roadmap-icon-size) !important;
+  fill: currentColor !important;
+  stroke: currentColor !important;
+}
+section.u-section .u-list .u-icon .u-svg-link{ display:none !important; }
+
+/* 4) 画像アイコンの見切れ保険 */
+.u-icon img{ max-width:100%; height:auto; }
 
