@@ -2756,3 +2756,13 @@
 .u-icon img, .u-image .u-back-image {
   max-width: 100%; height: auto;
 }
+/* モバイル時にハンバーガーUIを強制出現 */
+@media (max-width: 991px){
+  .u-menu .menu-collapse{ display:block !important; }
+  .u-nav-container{ display:none !important; }           /* デスクトップ用を隠す */
+  .u-nav-container-collapse{ display:block !important; }  /* 折りたたみ側を出す */
+}
+/* 前面に出してタップ可能に */
+.u-menu .menu-collapse,
+.u-offcanvas .u-sidenav{ position:relative; z-index:9999 !important; }
+
