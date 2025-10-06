@@ -2737,3 +2737,12 @@
     width: auto;
   }
 }
+/* === Minimal fixes (Nicepage主導で見た目調整OK) === */
+@media (max-width: 991px){
+  .u-menu .menu-collapse{ display:block !important; }
+  .u-nav-container{ display:none !important; }
+  .u-nav-container-collapse{ display:block !important; }
+}
+header.u-header, .u-menu{ position:relative; z-index:10000 !important; }
+.u-icon .u-svg-link,
+.u-menu .menu-collapse .u-svg-link{ display:none !important; }
