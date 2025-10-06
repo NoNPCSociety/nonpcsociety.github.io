@@ -1,0 +1,80 @@
+/* ===========================================
+   emergency-fix v3  (load AFTER nicepage.css & index.css)
+   - hamburger shown up to 1199px (iPad含む)
+   - hide fallback image only when SVG exists
+   - remove all 1px borders
+   - add small hero spacing
+   - show a tiny debug badge (右下)
+=========================================== */
+
+/* --- デバッグ: このバッジが右下に出ていれば custom-fix.css が読まれています --- */
+html::after{
+  content:"custom-fix v3";
+  position:fixed; right:6px; bottom:6px;
+  font:12px/1 monospace; color:#fff; background:#0008;
+  padding:2px 6px; border-radius:4px; z-index:999999;
+}
+
+/* 1) モバイル/タブレット(～1199px)でハンバーガーを必ず表示 */
+@media (max-width: 1199px){
+  .u-menu .menu-collapse{ display:block !important; }
+  .u-nav-container{ display:none !important; }              /* デスクトップ用ナビは隠す */
+  .u-nav-container-collapse{ display:block !important; }    /* 折り畳み側を出す */
+}
+
+/* 2) ヘッダー/メニューが他要素に隠れないよう前面へ */
+header.u-header, .u-menu{
+  position:sticky; top:0;
+  z-index:10000 !important;
+}
+
+/* 3) フォールバック重複防止: SVGがある時だけ、隣の画像(.u-svg-link)を隠す */
+.u-icon .u-svg-content + .u-svg-link,
+.u-menu .menu-collapse .u-svg-content + .u-svg-link{
+  display:none !important;
+}
+
+/* 4) SVGがゼロサイズ化しない保険（見た目のサイズはNicepageで管理） */
+- .u-icon .u-svg-content, .u-icon svg{
+-   width: 1em;
+-   height: 1em;
+- }
++/* SVGのゼロサイズ化だけを防ぎ、サイズ指定はNicepageに任せる */
++ .u-icon .u-svg-content, .u-icon svg{
++   width: auto;
++   height: auto;
++   min-width: 1px;
++   min-height: 1px;
++   display: inline-block;
++   visibility: visible !important;
++ }
+
+/* 5) すべての 1px 枠線を無効化（ボーダーの細線を消す） */
+.u-border-1, .u-line{ border:0 !important; height:0 !important; }
+
+/* 6) ヒーローでタイトルと画像が近すぎるのを少し離す（小画面でだけ） */
+@media (max-width: 767px){
+  section.u-section:first-of-type [class^="u-text-"],
+  section.u-section:first-of-type [class*=" u-text-"]{ margin-bottom:14px !important; }
+  section.u-section:first-of-type .u-image,
+  section.u-section:first-of-type img{ margin-top:12px !important; display:block !important; }
+}
+
+/* --- Nicepageの区切り線の描画パターンをまとめて無効化 --- */
+.u-line,
+.u-line:before,
+.u-line:after,
+.u-section hr{
+  border: 0 !important;
+  height: 0 !important;
+  background: transparent !important;
+  box-shadow: none !important;
+  outline: 0 !important;
+}
+
+/* 稀にコンテナに border-top/bottom を付けるパターンもある */
+.u-section .u-container-layout{
+  border-top: 0 !important;
+  border-bottom: 0 !important;
+}
+
