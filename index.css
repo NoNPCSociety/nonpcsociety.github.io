@@ -2765,4 +2765,47 @@
 /* 前面に出してタップ可能に */
 .u-menu .menu-collapse,
 .u-offcanvas .u-sidenav{ position:relative; z-index:9999 !important; }
+/* ===== Nicepageのアイコン崩れ対策（重複/極小/無彩色） ===== */
+
+/* フォールバック画像（PNG/SVGリンク）は非表示：重複防止 */
+.u-icon .u-svg-link { display: none !important; }
+
+/* SVGを常にアイコンのサイズで表示（極小化防止） */
+.u-icon .u-svg-content,
+.u-svg-content {
+  width: 1.75rem;   /* 好みで 2rem などに変更可 */
+  height: 1.75rem;
+}
+
+/* モバイルでも潰れないよう最小値を与える */
+@media (max-width: 767px){
+  .u-icon .u-svg-content, .u-svg-content {
+    width: 1.6rem; height: 1.6rem;
+  }
+}
+
+/* 色が消える問題：currentColor の色を明示 */
+.u-icon { 
+  color: #d3ff00;              /* アイコンの線/塗り色（デザインに合わせて変更） */
+}
+
+/* 丸背景付きのアイコンを想定する場合（必要なら有効化） */
+/*
+.u-icon-circle {
+  background-color: #d3ff00 !important;   border-radius: 9999px;
+}
+.u-icon-circle .u-svg-content { fill: #000 !important; }  /* 背景が黄色なら中は黒など */
+*/
+
+/* 他要素に隠れてタップできない場合の保険（ハンバーガーも含む） */
+.u-menu .menu-collapse,
+.u-offcanvas .u-sidenav { position: relative; z-index: 9999 !important; }
+
+/* モバイルでメニューを確実に切り替える（念のため） */
+@media (max-width: 991px){
+  .u-nav-container { display: none !important; }
+  .u-nav-container-collapse { display: block !important; }
+  .u-menu .menu-collapse { display: block !important; }
+}
+
 
