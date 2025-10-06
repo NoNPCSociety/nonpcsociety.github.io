@@ -77,4 +77,39 @@ header.u-header, .u-menu{
   border-top: 0 !important;
   border-bottom: 0 !important;
 }
+/* ===== force show hamburger/icon on real phones ===== */
+
+/* iPad/Phone まで対象を広げる */
+@media (max-width: 1199px){
+  /* 1) ハンバーガーを必ず表示・配置・可視化 */
+  .u-menu .menu-collapse{
+    display:flex !important;
+    align-items:center; justify-content:center;
+    position:absolute !important; right:12px; top:12px;
+    width:44px; height:44px;
+    color:#fff !important;                   /* 色は必要に応じて変更 */
+    opacity:1 !important; visibility:visible !important;
+    pointer-events:auto !important;
+    z-index:10001 !important;
+  }
+
+  /* 2) デスクトップ用ナビは隠す／折り畳み側は出す */
+  .u-menu .u-nav-container{ display:none !important; }
+  .u-menu .u-nav-container-collapse{ display:block !important; }
+}
+
+/* 3) ヘッダーは相対配置（stickyで消える端末対策） */
+header.u-header, .u-menu{ position:relative !important; z-index:10000 !important; }
+
+/* 4) 実機でアイコンが0px化しない最低サイズ担保（本文＆ハンバーガー） */
+@media (max-width: 1199px){
+  .u-list .u-icon svg, .u-list .u-icon .u-svg-content{ width:1.75rem; height:1.75rem; }
+  .u-menu .menu-collapse svg, .u-menu .menu-collapse .u-svg-content{ width:1.75rem; height:1.75rem; }
+}
+
+/* 5) iOS Safari向けの描画安定化 */
+@supports (-webkit-touch-callout: none){
+  .u-menu .menu-collapse{ -webkit-transform:translateZ(0); transform:translateZ(0); }
+}
+
 
