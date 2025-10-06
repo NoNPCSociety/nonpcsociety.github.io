@@ -2845,4 +2845,48 @@
 
 /* 画像アイコンがある場合の見切れ対策 */
 .u-icon img{ max-width:100%; height:auto; }
+/* ===== NoNPC Society 固定パッチ ===== */
+
+/* ハンバーガーメニュー：小画面で確実に表示 */
+@media (max-width: 991px){
+  .u-menu .menu-collapse{ display:block !important; }
+  .u-nav-container{ display:none !important; }               /* デスクトップ用は非表示 */
+  .u-nav-container-collapse{ display:block !important; }     /* 折り畳み用は表示 */
+  header.u-header, .u-menu{ position:relative; z-index:10000 !important; }
+}
+
+/* ハンバーガーの位置・色・サイズ */
+.u-menu .menu-collapse{
+  margin-right: 10px !important;              /* 右端ギリギリ → 少し内側へ */
+}
+.u-menu .menu-collapse .u-icon,
+.u-menu .menu-collapse .u-svg-content,
+.u-menu .menu-collapse svg{
+  width: 28px !important;
+  height: 28px !important;
+  color: #ffffff !important;                  /* 白に戻す */
+  fill: currentColor !important;
+}
+/* Nicepageのフォールバック画像を隠す（重複防止） */
+.u-menu .menu-collapse .u-svg-link{ display:none !important; }
+
+/* ページ本文中のアイコンだけ黄緑＆サイズ大きめ */
+section.u-section .u-list .u-icon{
+  color: #d3ff00 !important;
+}
+section.u-section .u-list .u-icon .u-svg-content,
+section.u-section .u-list .u-icon svg{
+  width: 34px !important;
+  height: 34px !important;
+}
+
+/* ヒーロー（トップセクション）のタイトルと画像が重ならないように */
+section.u-section:first-of-type .u-text{ 
+  margin-bottom: 12px !important; 
+}
+section.u-section:first-of-type img{ 
+  margin-top: 8px !important; 
+  max-width: 72px;   /* 必要なら調整 */
+  height: auto;
+}
 
