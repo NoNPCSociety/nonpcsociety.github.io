@@ -2731,3 +2731,28 @@
     width: auto;
   }
 }
+/* ハンバーガー表示を強制 */
+@media (max-width: 991px){
+  .u-menu .menu-collapse{ display:block !important; }
+  .u-nav-container{ display:none !important; } /* デスクトップ用を隠す */
+  .u-nav-container-collapse{ display:block !important; }
+}
+
+/* 何かに隠れている場合の前面化 */
+.u-menu .menu-collapse,
+.u-offcanvas .u-sidenav {
+  position: relative;
+  z-index: 9999 !important;
+}
+/* SVGのサイズ・色の保険 */
+.u-icon svg, .u-svg-content {
+  width: 1em; height: 1em; /* 0 サイズ潰れ対策 */
+}
+.u-icon, .u-icon svg, .u-svg-content {
+  fill: #fff !important; /* currentColor で背景と同色になるのを防ぐ（必要なら色変更） */
+}
+
+/* 画像アイコンを使っている箇所の見切れ対策 */
+.u-icon img, .u-image .u-back-image {
+  max-width: 100%; height: auto;
+}
