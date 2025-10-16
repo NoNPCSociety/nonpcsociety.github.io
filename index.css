@@ -2850,7 +2850,30 @@ footer.u-footer .u-text-3 {
     margin-top: -12px;
     margin-bottom: 40px;
   }
-} .u-section-9 {
+}
+
+.u-section-8 {
+  --section8-width: clamp(220px, 90vw, 547px);
+  gap: 0;
+}
+.u-section-8 .u-sheet-1 { gap: 0; }
+.u-section-8 .u-image-1,
+.u-section-8 .u-image-2 {
+  width: var(--section8-width);
+  height: auto;
+  max-width: 100%;
+  object-fit: contain;
+  object-position: center;
+  margin: 0;
+}
+
+@media (max-width: 767px) {
+  .u-section-8 .u-sheet-1 { gap: 0; align-items: center; justify-content: center; }
+  .u-section-8 .u-image-1,
+  .u-section-8 .u-image-2 { width: var(--section8-width); height: auto; }
+}
+
+.u-section-9 {
   --color-var: #292e33;
 }
 
