@@ -1,4 +1,30 @@
 
+html {
+  scroll-padding-top: 150px; 
+}
+
+@media (max-width: 767px) {
+  html {
+    scroll-padding-top: 120px; 
+  }
+}
+
+
+#WhyMatters,
+#Tokenomics,
+#Roadmap {
+  scroll-margin-top: 150px;
+}
+
+@media (max-width: 767px) {
+  #WhyMatters,
+  #Tokenomics,
+  #Roadmap {
+    scroll-margin-top: 120px;
+  }
+}
+
+
 .u-section-4 .u-text-1 { margin-right: 0; }
 @media (max-width: 1199px) { .u-section-4 .u-text-1 { margin-right: 0; } }
 @media (max-width: 575px) { .u-section-4 .u-text-1 { margin-right: 0; } }
@@ -1002,7 +1028,7 @@ footer.u-footer .u-text-3 {
 }
 
 .u-section-1 .u-text-2 {
-  font-size: 6.875rem;
+  font-size: clamp(2.5rem, 6vw, 6.875rem) !important; 
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 0px;
   --animation-custom_in-opacity: 0;
@@ -1010,6 +1036,26 @@ footer.u-footer .u-text-3 {
   --animation-custom_in-scale: 0.3;
   font-weight: 800;
   margin: 23px auto 0;
+  white-space: nowrap; 
+}
+
+
+@media (min-width: 1200px) {
+  .u-section-1 .u-text-2 {
+    font-size: 6.875rem !important;
+  }
+}
+
+
+@media (min-width: 768px) and (max-width: 1199px) {
+  .u-section-1 .u-text-2 {
+    font-size: 5rem !important;
+  }
+}
+
+
+.u-section-1 .u-text-2 span {
+  white-space: nowrap;
 }
 
 .u-section-1 .u-text-3 {
