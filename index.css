@@ -995,6 +995,7 @@ footer.u-footer .u-text-3 {
 
 
 .contract-address {
+  font-size: calc(100% - 2pt);
   word-break: break-all;        
   overflow-wrap: anywhere;      
   white-space: normal;          
