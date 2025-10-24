@@ -1,6 +1,7 @@
 # No NPC Society ($NONPC)
-Official repository for the $NONPC token and DAO on Solana.
+🌐 Official Website: [https://nonpcsociety.com](https://nonpcsociety.com)
 
+Official repository for the $NONPC token and DAO on Solana.
 ## Overview
 $NONPC is a Solana-based decentralized movement exploring simulation theory and human awakening.  
 This repository hosts official resources, documentation, and website assets.
