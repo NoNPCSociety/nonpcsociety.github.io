@@ -15,3 +15,5 @@ This repository hosts official resources, documentation, and website assets.
 
 This repository is currently used for official documentation and website hosting.  
 Token contract code is maintained privately and can be shared upon request.
+
+This repository will be continuously updated with DAO documentation and technical resources.
