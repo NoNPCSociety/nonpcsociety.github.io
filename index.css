@@ -1017,6 +1017,13 @@ footer.u-footer .footer-buttons-block .footer-address {
   width: 100%;
 }
 
+@media (min-width: 992px) {
+  footer.u-footer .footer-buttons-block .footer-address {
+    width: 100%;
+    align-items: flex-end;
+  }
+}
+
 footer.u-footer .footer-buttons-block .footer-address .address-icon {
   filter: brightness(0) saturate(100%) invert(78%) sepia(66%) saturate(6857%) hue-rotate(253deg) brightness(102%) contrast(101%);
   transition: filter 0.3s ease;
