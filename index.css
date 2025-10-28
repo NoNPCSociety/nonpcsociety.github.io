@@ -784,8 +784,13 @@ a {
 }
 
 .u-section-14 .quick-facts:first-child {
-  max-width: 100%;
   margin: 48px auto;
+}
+
+@media (min-width: 768px) {
+  .u-section-14 .quick-facts:first-child {
+    max-width: 100%;
+  }
 }
 
 @media (min-width: 1200px) {
@@ -825,7 +830,7 @@ a {
   display: flex;
   flex-direction: row;
   gap: 40px;
-  align-items: flex-start;
+  align-items: stretch;
 }
 
 .transparency-box,
@@ -905,15 +910,69 @@ a {
   }
 }
 
+/* Founder と DAO Governance の見出しを左揃え（すべての画面サイズ） */
+.u-section-14 .quick-facts p.u-text.u-text-custom-color-9.u-text-4,
+.u-section-14 .quick-facts > p.u-text.u-text-custom-color-9.u-text-4,
+.u-section-14 .chapter-content > .quick-facts p.u-text.u-text-custom-color-9.u-text-4,
+.u-section-14 .chapter-content .quick-facts p.u-text.u-text-custom-color-9.u-text-4 {
+  text-align: left !important;
+}
+
 .u-section-14 .quick-facts .u-btn {
   border-radius: 25px !important;
+}
+
+.founder-heading {
+  width: 100%;
+  text-align: left;
+  display: block;
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom: 10px;
+  align-self: flex-start;
+}
+
+.u-section-14 .quick-facts > div[style*="flex: 3"] p.u-text-white.u-text-5 {
+  text-align: left !important;
+}
+
+.u-section-14 .quick-facts > div[style*="display: flex"] > div[style*="flex: 3"] > p.u-text-5 {
+  text-align: left !important;
+}
+
+@media (max-width: 767px) {
+  .u-section-14 .quick-facts:first-child {
+    max-width: 600px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+@media (max-width: 480px) {
+  .u-section-14 .quick-facts:first-child {
+    max-width: 100%;
+  }
+}
+
+.dao-governance-content {
+  display: flex;
+  flex-direction: column;
+}
+
+.dao-governance-content .u-text-4 {
+  margin-bottom: 24px;
+}
+
+.dao-governance-content .u-text-5 {
+  margin-bottom: 48px;
 }
 
 .section14-governance-grid {
   display: grid;
   grid-template-columns: 1fr;
   gap: 0;
-  margin: 48px auto;
+  margin: 48px auto 0;
   justify-items: center;
 }
 
@@ -1001,18 +1060,6 @@ a {
     text-align: center;
   }
   
-  .u-section-14 .quick-facts > p.u-text-custom-color-9.u-text-4 {
-    text-align: center !important;
-  }
-  
-  .u-section-14 .quick-facts p.u-text.u-text-custom-color-9.u-text-4 {
-    text-align: center !important;
-  }
-  
-  .u-section-14 .quick-facts .u-text-4 {
-    text-align: center !important;
-  }
-  
   .u-section-14 .governance-item {
     flex-direction: column;
     align-items: center;
@@ -1059,7 +1106,6 @@ a {
   
   .u-section-14 .quick-facts:first-child {
     width: 100%;
-    max-width: 100%;
   }
 }
 
