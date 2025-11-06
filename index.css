@@ -708,7 +708,7 @@ a {
   flex-direction: column;
   gap: 20px;
   align-items: flex-start;
-  margin-top: 20px;
+  margin-top: 0;
 }
 
 .u-section-14 .u-text-3 {
@@ -801,6 +801,24 @@ a {
 
 .founder-disclosure__content .u-text {
   text-align: left;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+/* Ensure no horizontal margins on the headline line, all viewports */
+.founder-disclosure__content p.u-text.u-text-3 {
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+}
+
+@media (max-width: 767px) {
+  /* Explicitly zero horizontal margins on SP */
+  .founder-disclosure__content .u-text,
+  .founder-disclosure__content p.u-text.u-text-3 {
+    margin-left: 0;
+    margin-right: 0;
+  }
 }
 
 @media (max-width: 767px) {
@@ -840,6 +858,14 @@ a {
 @media (min-width: 768px) {
   .u-section-14 .quick-facts:first-child {
     max-width: 100%;
+  }
+}
+
+@media (min-width: 992px) {
+  .u-section-14 .quick-facts:first-child {
+    width: 100%;
+    max-width: 100%;
+    padding-bottom: 40px;
   }
 }
 
@@ -980,6 +1006,30 @@ a {
   margin-right: 0;
   margin-bottom: 10px;
   align-self: flex-start;
+}
+
+.u-section-14 .quick-facts > div[style*="display: flex"] {
+  width: 100%;
+}
+
+.u-section-14 .quick-facts > div[style*="display: flex"] > div[style*="flex: 3"] p.u-text-white.u-text-5 {
+  text-align: left !important;
+}
+
+.u-section-14 .quick-facts > div[style*="display: flex"] > div[style*="flex: 3"] > p.u-text-5 {
+  text-align: left !important;
+}
+
+/* Pink link styling for founder disclosure link */
+.pp-link {
+  color: #ff4ecb;
+  text-decoration: none;
+}
+
+.pp-link:hover,
+.pp-link:focus {
+  color: #ff7ddc;
+  text-decoration: underline;
 }
 
 .u-section-14 .quick-facts > div[style*="flex: 3"] p.u-text-white.u-text-5 {
