@@ -491,6 +491,32 @@ a {
   }
 }
 
+.fair-presale {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.fair-presale__list {
+  margin: 0;
+  padding-left: 1.5rem;
+  list-style: disc;
+  color: #ffffff;
+}
+
+.fair-presale__list li {
+  margin-bottom: 12px;
+  line-height: 1.5;
+}
+
+.fair-presale__list li:last-child {
+  margin-bottom: 0;
+}
+
+.fair-presale__note {
+  margin: 0;
+}
+
 
 .u-section-7 .section7-header .u-text-2 {
   margin: 0;
