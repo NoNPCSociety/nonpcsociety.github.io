@@ -6048,3 +6048,11 @@ header.u-header .header-right-group {
     max-width: 1000px;
   }
 }
+
+.u-align-center.u-text.u-text-white.u-text-small.u-text-4.contract-address span{
+  font-size: 1rem;
+  font-weight: 700;
+}
+/* .u-align-center.u-text.u-text-white.u-text-small.u-text-4.contract-address a{
+  text-decoration: underline;
+} */
