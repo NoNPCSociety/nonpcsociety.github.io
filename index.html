@@ -84,6 +84,147 @@
       content="https://nonpcsociety.com/images/Glitch0_Transparent.png"
     />
     <meta data-intl-tel-input-cdn-path="intlTelInput/" />
+    <!-- Geo Block Script -->
+    <script>
+			(function () {
+				"use strict";
+
+				// IPInfo.io API token - Replace with your actual token
+				var IPINFO_TOKEN = "1ae00e3aebbf5f";
+
+				// Hide content until geo check is complete
+				document.documentElement.classList.add("geo-check-pending");
+
+				// Function to show content (when not Japan)
+				function showContent() {
+					document.documentElement.classList.remove("geo-check-pending");
+					document.documentElement.classList.add("geo-check-complete");
+				}
+
+				// Function to ensure body is ready before inserting modal
+				function waitForBody(callback) {
+					if (document.body) {
+						callback();
+					} else {
+						if (document.readyState === "loading") {
+							document.addEventListener("DOMContentLoaded", callback);
+						} else {
+							// Fallback: wait a bit and try again
+							setTimeout(function () {
+								waitForBody(callback);
+							}, 10);
+						}
+					}
+				}
+
+				function showGeoBlockModal() {
+					waitForBody(function () {
+						// Check if modal already exists
+						if (document.getElementById("geo-block-modal")) {
+							return;
+						}
+
+						// Prevent Esc key from closing modal
+						document.addEventListener(
+							"keydown",
+							function (e) {
+								if (e.key === "Escape") {
+									e.preventDefault();
+									e.stopPropagation();
+									return false;
+								}
+							},
+							true
+						);
+
+						// Create modal HTML
+						var modalHTML =
+							'<div id="geo-block-modal" class="geo-block-modal">' +
+							'<div class="geo-block-modal-overlay"></div>' +
+							'<div class="geo-block-modal-content">' +
+							'<h2 class="geo-block-modal-title">Access Restricted: Japan</h2>' +
+							'<div class="geo-block-modal-body">' +
+							"<p>Access to this website and the purchase of tokens are strictly prohibited for residents, citizens, and entities located in Japan due to regulatory compliance.</p>" +
+							"<p>Any attempt to circumvent this restriction, including the use of VPNs or proxy services, is a violation of our Terms of Use.</p>" +
+							"<p>Please leave this website immediately.</p>" +
+							"</div>" +
+							'<button id="geo-block-close-btn" class="geo-block-close-btn">Close</button>' +
+							"</div>" +
+							"</div>";
+
+						// Insert modal into body
+						document.body.insertAdjacentHTML("beforeend", modalHTML);
+
+						// Handle close button click
+						var closeBtn = document.getElementById("geo-block-close-btn");
+						if (closeBtn) {
+							closeBtn.addEventListener("click", function () {
+								window.location.href = "about:blank";
+							});
+						}
+
+						// Prevent any interaction with background content
+						var modal = document.getElementById("geo-block-modal");
+						if (modal) {
+							modal.addEventListener("click", function (e) {
+								// Only allow clicks on the close button
+								if (
+									e.target.id !== "geo-block-close-btn" &&
+									!e.target.closest("#geo-block-close-btn")
+								) {
+									e.preventDefault();
+									e.stopPropagation();
+								}
+							});
+						}
+					});
+				}
+
+				// Check sessionStorage first to avoid unnecessary API calls
+				var storedCountryCode = sessionStorage.getItem("geoBlockCountryCode");
+
+				if (storedCountryCode) {
+					// Use stored country code
+					if (storedCountryCode === "JP") {
+						showGeoBlockModal();
+						// Keep content hidden for Japan
+					} else {
+						showContent();
+					}
+				} else {
+					// Fetch country code from API
+					var apiUrl = "https://ipinfo.io/json";
+					if (IPINFO_TOKEN && IPINFO_TOKEN !== "4d26779579d056") {
+						apiUrl += "?token=" + encodeURIComponent(IPINFO_TOKEN);
+					}
+
+					fetch(apiUrl)
+						.then(function (response) {
+							if (!response.ok) {
+								throw new Error("Network response was not ok");
+							}
+							return response.json();
+						})
+						.then(function (data) {
+							var countryCode = data.country || "";
+							// Store in sessionStorage for future requests
+							sessionStorage.setItem("geoBlockCountryCode", countryCode);
+
+							if (countryCode === "JP") {
+								showGeoBlockModal();
+								// Keep content hidden for Japan
+							} else {
+								showContent();
+							}
+						})
+						.catch(function (error) {
+							console.error("Error fetching geo location:", error);
+							// On error, show content (don't block access)
+							showContent();
+						});
+				}
+			})();
+		</script>
   </head>
   <body
     data-home-page="Page-1.html"
@@ -1461,93 +1602,93 @@
       <p class="u-align-center u-text u-text-3">© No NPC Society.</p>
     </footer>
     <script>
-      (function () {
-        var btn = document.getElementById("hamburger");
-        var sidenav = document.getElementById("mobile-sidenav");
-        var overlay = document.getElementById("mobile-overlay");
-        var closeBtn = document.getElementById("mobile-close");
-        if (!btn || !sidenav || !overlay || !closeBtn) return;
-        function openMenu() {
-          sidenav.setAttribute("aria-hidden", "false");
-          btn.setAttribute("aria-expanded", "true");
-          overlay.removeAttribute("hidden");
-        }
-        function closeMenu() {
-          sidenav.setAttribute("aria-hidden", "true");
-          btn.setAttribute("aria-expanded", "false");
-          overlay.setAttribute("hidden", "");
-        }
-        btn.addEventListener("click", function (e) {
-          e.preventDefault();
-          openMenu();
-        });
-        closeBtn.addEventListener("click", function () {
-          closeMenu();
-        });
-        overlay.addEventListener("click", function () {
-          closeMenu();
-        });
-        document.addEventListener("keyup", function (e) {
-          if (e.key === "Escape") closeMenu();
-        });
-      })();
+			(function () {
+				var btn = document.getElementById("hamburger");
+				var sidenav = document.getElementById("mobile-sidenav");
+				var overlay = document.getElementById("mobile-overlay");
+				var closeBtn = document.getElementById("mobile-close");
+				if (!btn || !sidenav || !overlay || !closeBtn) return;
+				function openMenu() {
+					sidenav.setAttribute("aria-hidden", "false");
+					btn.setAttribute("aria-expanded", "true");
+					overlay.removeAttribute("hidden");
+				}
+				function closeMenu() {
+					sidenav.setAttribute("aria-hidden", "true");
+					btn.setAttribute("aria-expanded", "false");
+					overlay.setAttribute("hidden", "");
+				}
+				btn.addEventListener("click", function (e) {
+					e.preventDefault();
+					openMenu();
+				});
+				closeBtn.addEventListener("click", function () {
+					closeMenu();
+				});
+				overlay.addEventListener("click", function () {
+					closeMenu();
+				});
+				document.addEventListener("keyup", function (e) {
+					if (e.key === "Escape") closeMenu();
+				});
+			})();
 
-      function adjustScrollPosition() {
-        const links = document.querySelectorAll('a[href^="#"]');
+			function adjustScrollPosition() {
+				const links = document.querySelectorAll('a[href^="#"]');
 
-        links.forEach(function (link) {
-          link.removeEventListener("click", handleAnchorClick);
-          link.addEventListener("click", handleAnchorClick);
-        });
-      }
+				links.forEach(function (link) {
+					link.removeEventListener("click", handleAnchorClick);
+					link.addEventListener("click", handleAnchorClick);
+				});
+			}
 
-      function handleAnchorClick(e) {
-        const href = this.getAttribute("href");
-        if (href === "#") return;
+			function handleAnchorClick(e) {
+				const href = this.getAttribute("href");
+				if (href === "#") return;
 
-        const target = document.querySelector(href);
-        if (target) {
-          e.preventDefault();
-          e.stopPropagation();
+				const target = document.querySelector(href);
+				if (target) {
+					e.preventDefault();
+					e.stopPropagation();
 
-          const header = document.querySelector("header");
-          const headerHeight = header ? header.offsetHeight : 110;
+					const header = document.querySelector("header");
+					const headerHeight = header ? header.offsetHeight : 110;
 
-          const targetPosition = target.offsetTop - headerHeight - 20;
+					const targetPosition = target.offsetTop - headerHeight - 20;
 
-          window.scrollTo({
-            top: targetPosition,
-            behavior: "smooth",
-          });
+					window.scrollTo({
+						top: targetPosition,
+						behavior: "smooth",
+					});
 
-          window.history.pushState(null, null, href);
-        }
-      }
+					window.history.pushState(null, null, href);
+				}
+			}
 
-      document.addEventListener("DOMContentLoaded", adjustScrollPosition);
-      window.addEventListener("load", adjustScrollPosition);
+			document.addEventListener("DOMContentLoaded", adjustScrollPosition);
+			window.addEventListener("load", adjustScrollPosition);
 
-      setTimeout(adjustScrollPosition, 1000);
-      setTimeout(adjustScrollPosition, 2000);
+			setTimeout(adjustScrollPosition, 1000);
+			setTimeout(adjustScrollPosition, 2000);
 
-      window.addEventListener("load", function () {
-        const hash = window.location.hash;
-        if (hash) {
-          setTimeout(function () {
-            const target = document.querySelector(hash);
-            if (target) {
-              const header = document.querySelector("header");
-              const headerHeight = header ? header.offsetHeight : 110;
-              const targetPosition = target.offsetTop - headerHeight - 20;
+			window.addEventListener("load", function () {
+				const hash = window.location.hash;
+				if (hash) {
+					setTimeout(function () {
+						const target = document.querySelector(hash);
+						if (target) {
+							const header = document.querySelector("header");
+							const headerHeight = header ? header.offsetHeight : 110;
+							const targetPosition = target.offsetTop - headerHeight - 20;
 
-              window.scrollTo({
-                top: targetPosition,
-                behavior: "smooth",
-              });
-            }
-          }, 500);
-        }
-      });
-    </script>
+							window.scrollTo({
+								top: targetPosition,
+								behavior: "smooth",
+							});
+						}
+					}, 500);
+				}
+			});
+		</script>
   </body>
 </html>
