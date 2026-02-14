@@ -20,7 +20,7 @@ This repository hosts official resources, documentation, and technical specifica
 - **Total Supply:** 1,000,000,000,000  
 - **Chain:** Solana  
 - **Token Standard:** SPL Token Program  
-- **Explorer: [View on Solscan](https://solscan.io/token/8rmZUcQsQKWBZ2WDPoTwkkiFsuhABXQX7o4xysf7Cgyp)
+- **Explorer:** [View on Solscan](https://solscan.io/token/8rmZUcQsQKWBZ2WDPoTwkkiFsuhABXQX7o4xysf7Cgyp)
  
 
 ---
