@@ -12,7 +12,7 @@ $NONPC is a Solana-based decentralized movement exploring simulation theory and 
 
 This repository hosts official resources, documentation, and technical specifications.
 
-Core research: Awakening Flywheel Experiment (AFX)(docs/afx-v1.0.md)
+Core Research: [Awakening Flywheel Experiment (AFX) – Original Technical Specification](docs/afx-v1.0.md)
 
 ---
 
