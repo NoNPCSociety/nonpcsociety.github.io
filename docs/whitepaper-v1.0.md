@@ -203,6 +203,10 @@ https://github.com/NoNPCSociety/nonpcsociety.github.io
 Official Website:
 https://nonpcsociety.com
 
+Official PDF Version:
+https://nonpcsociety.com/docs/whitepaper-v1.0.pdf
+
 ---
 
 End of Document.
+
