@@ -120,7 +120,8 @@ It achieved:
 
 - ~500x token price growth
 - ~$6M peak liquidity
-- Sustained upward structure for approximately one year
+- Sustained consistent upward price structure for the first year post-launch
+- Maintained thick liquidity for over one year
 - CEX listing
 
 Its eventual decline and delisting provided foundational structural lessons applied to the design of $NONPC and AFX.
@@ -146,4 +147,5 @@ Koichi Hatta continues to design token systems focused on structural resilience 
 ---
 
 End of Document.
+
 
