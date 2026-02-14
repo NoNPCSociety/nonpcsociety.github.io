@@ -64,4 +64,28 @@ This repository will be continuously updated with:
 - [Awakening Flywheel Experiment (AFX) – Technical Specification](docs/afx-v1.0.md)
 - [PDF Version (for distribution)](docs/afx-v1.0.pdf)
 - Governance resources  
-- Technical references  
+- Technical references
+
+---
+
+- ## Core Documentation
+
+Whitepaper (Markdown):  
+docs/whitepaper-v1.0.md
+
+Whitepaper (PDF):  
+docs/whitepaper-v1.0.pdf
+
+Awakening Flywheel Experiment (AFX) – Technical Specification (Markdown):  
+docs/afx-v1.0.md
+
+AFX (PDF Version for Distribution):  
+docs/afx-v1.0.pdf
+
+---
+
+## Author
+
+Koichi Hatta – Serial Crypto Architect  
+docs/koichi-hatta.md
+
