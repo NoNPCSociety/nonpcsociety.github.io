@@ -59,6 +59,6 @@ Operational procedures for treasury management are executed through multisig gov
 This repository will be continuously updated with:
 
 - DAO documentation  
-- AFX (Awakening Flywheel Experiment) specifications(docs/Awakening Flywheel Experiment (AFX) v1.0.md)  
+- [Awakening Flywheel Experiment (AFX) – Technical Specification](docs/afx-v1.0.md)
 - Governance resources  
 - Technical references  
