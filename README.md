@@ -68,24 +68,25 @@ This repository will be continuously updated with:
 
 ---
 
-- ## Core Documentation
+## Core Documentation
 
 Whitepaper (Markdown):  
-docs/whitepaper-v1.0.md
+[docs/whitepaper-v1.0.md](docs/whitepaper-v1.0.md)
 
 Whitepaper (PDF):  
-docs/whitepaper-v1.0.pdf
+[docs/whitepaper-v1.0.pdf](docs/whitepaper-v1.0.pdf)
 
 Awakening Flywheel Experiment (AFX) – Technical Specification (Markdown):  
-docs/afx-v1.0.md
+[docs/afx-v1.0.md](docs/afx-v1.0.md)
 
 AFX (PDF Version for Distribution):  
-docs/afx-v1.0.pdf
+[docs/afx-v1.0.pdf](docs/afx-v1.0.pdf)
 
 ---
 
 ## Author
 
 Koichi Hatta – Serial Crypto Architect  
-docs/koichi-hatta.md
+[docs/koichi-hatta.md](docs/koichi-hatta.md)
+
 
