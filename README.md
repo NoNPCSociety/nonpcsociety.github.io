@@ -98,6 +98,9 @@ AFX (PDF Version for Distribution):
 - **Navigating the Path to Decentralized Governance** (Crypto.News)  
   https://crypto.news/navigating-the-path-to-decentralized-governance/
 
+- **Crypto Projects Must Forge Their Own Path Towards Community Governance** (Analytics Insight)  
+  https://www.analyticsinsight.net/cryptocurrency-analytics-insight/crypto-projects-must-forge-own-path-towards-community-governance
+
 ---
 
 ## Author
