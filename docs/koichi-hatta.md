@@ -28,58 +28,67 @@ He is the architect of the Awakening Flywheel Experiment (AFX), a structural liq
 
 marumaruNFT was an independently launched token project designed and led by Koichi Hatta.
 
-### 2.1 Market Performance Metrics
+### 2.1 Launch & Timeline
+
+- Launch: September 2022 on PancakeSwap
+- Lifecycle duration: approximately 3 years
+- Delisting and project closure: December 2025
+
+---
+
+### 2.2 Market Performance Metrics
 
 - Peak liquidity: approximately USD $6,000,000
 - Maximum token price appreciation: approximately 500x from early-stage pricing
-- Sustained upward price structure for approximately 12 months post-listing
-- Maintained thick liquidity for over one year after launch
+- Sustained upward price trajectory for approximately 12 months post-launch
+- Maintained thick liquidity for over one year
 - Early and mid-stage participants were provided with substantial profit opportunities
 - Successfully listed on a centralized exchange (CEX)
 
-The project did not rely on hyper-inflationary rewards or artificial APY mechanisms.
+The project did not rely on hyper-inflationary reward structures or artificial APY mechanisms.
 
 ---
 
 ## 3. Lifecycle Outcome
 
-After approximately three years post-launch:
+After approximately three years:
 
-- Internal structural weaknesses emerged
+- Internal structural weaknesses developed
 - Product direction deteriorated
-- Market interest declined
-- The token was eventually delisted
+- Market attention declined
+- The token was delisted in December 2025
+- Project operations were formally concluded
 
-While early and mid-stage participants benefited significantly, many later-stage participants unfortunately experienced losses.
+While early and mid-stage participants benefited significantly, many participants who entered during later stages unfortunately experienced losses.
 
 ---
 
 ## 4. Lessons from Market Cycles
 
-Through marumaruNFT, Koichi Hatta experienced:
+Through marumaruNFT (2022–2025), Koichi Hatta experienced and analyzed:
 
-- Bull market acceleration dynamics
-- Liquidity expansion phases
-- Speculative overheating
-- Structural decay patterns
-- Attention collapse cycles
-- Post-peak contraction
+- Initial liquidity expansion dynamics
+- Sustained bull-phase structural growth
+- Market overheating conditions
+- Internal structural degradation
+- Declining attention cycles
+- Terminal contraction phases
 
-These experiences directly informed the architectural philosophy behind No NPC Society ($NONPC) and the Awakening Flywheel Experiment (AFX).
+This full-cycle experience directly informed the architectural philosophy behind No NPC Society ($NONPC) and the Awakening Flywheel Experiment (AFX).
 
-The design focus shifted toward:
+Design focus shifted toward:
 
-- Structural sustainability
+- Structural sustainability over speculative velocity
 - Non-inflationary incentive logic
-- Liquidity durability
+- Liquidity durability mechanisms
 - Governance transparency
-- Risk containment
+- Explicit risk acknowledgment
 
 ---
 
 ## 5. Current Focus: No NPC Society ($NONPC)
 
-No NPC Society represents a second-generation structural design informed by prior market experience.
+No NPC Society represents a second-generation token architecture informed by empirical market-cycle experience.
 
 Core principles include:
 
@@ -94,29 +103,29 @@ Core principles include:
 
 ## 6. Architectural Positioning
 
-Koichi Hatta does not position himself as a speculative promoter.
-
-He positions himself as:
+Koichi Hatta positions himself as:
 
 - A structural designer of token economies
 - A liquidity systems architect
 - A practitioner who has experienced full-cycle market expansion and contraction
-- A builder informed by empirical outcomes rather than theory alone
+- A builder informed by empirical outcomes rather than speculative theory
 
 ---
 
 ## 7. Origin Statement
 
-marumaruNFT was architected and led by Koichi Hatta and reached:
+marumaruNFT was launched in September 2022 on PancakeSwap and operated until December 2025.
+
+It achieved:
 
 - ~500x token price growth
 - ~$6M peak liquidity
 - Sustained upward structure for approximately one year
-- CEX listing achievement
+- CEX listing
 
-Following its eventual decline and delisting after approximately three years, its full lifecycle provided foundational lessons applied to $NONPC and AFX.
+Its eventual decline and delisting provided foundational structural lessons applied to the design of $NONPC and AFX.
 
-Koichi Hatta continues to design token systems focused on structural resilience rather than speculative hype.
+Koichi Hatta continues to design token systems focused on structural resilience rather than short-term speculation.
 
 ---
 
