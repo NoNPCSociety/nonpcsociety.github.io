@@ -12,6 +12,8 @@ $NONPC is a Solana-based decentralized movement exploring simulation theory and 
 
 This repository hosts official resources, documentation, and technical specifications.
 
+Core research: Awakening Flywheel Experiment (AFX)(docs/afx-v1.0.md)
+
 ---
 
 ## Token Information
@@ -48,7 +50,7 @@ All addresses above are publicly verifiable on Solana explorers.
 
 $NONPC uses the standard Solana SPL Token Program.  
 No custom token contract is deployed.
-The Awakening Flywheel Experiment (AFX) was first introduced by No NPC Society in 2026.
+The Awakening Flywheel Experiment (AFX) is an original protocol architecture designed and formally defined by No NPC Society in 2026.
 
 Operational procedures for treasury management are executed through multisig governance.
 
