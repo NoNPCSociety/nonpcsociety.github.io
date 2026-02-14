@@ -48,6 +48,7 @@ All addresses above are publicly verifiable on Solana explorers.
 
 $NONPC uses the standard Solana SPL Token Program.  
 No custom token contract is deployed.
+The Awakening Flywheel Experiment (AFX) was first introduced by No NPC Society in 2026.
 
 Operational procedures for treasury management are executed through multisig governance.
 
