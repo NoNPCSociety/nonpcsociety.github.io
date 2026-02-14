@@ -11,7 +11,14 @@ Token Information
 - Total Supply: 1,000,000,000,000  
 - Chain: Solana  
 - Verified on Solscan  
-- Managed via Squads Multisig (Vault address: 7QSJ...PFfV)
+- Treasury & Custody (Squads Multisig)
+  $NONPC treasury assets are managed via Squads multisig across three purpose-separated vaults:
+  - Vault #1 – Long-Term Custody (Founder / Dev / DAO / Presale_Unsold Strategic Emission Reserve)
+    53eyssmUhwAhPexUwSeBa8Zwop8aMdCUPr7VGNMsG2qk
+  - Vault #2 – Operational Funds (Community / Marketing)
+    9WZvtHS3dV3ofCncKNsdJtMDyrNFXyTQiNJug4h2iukV
+  - Vault #3 – LP Operations Reserve
+    H1t7gu3pQVr8AmbQ3LJTAJDvcNfZqc4RzDP7gvSpYwJP
 
 Note on Token Code  
 $NONPC uses the standard Solana SPL Token Program; no custom token contract is required or used.  
