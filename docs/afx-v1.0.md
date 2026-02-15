@@ -269,7 +269,7 @@ The ultimate objectives of the dual engine structure presented in this chapter a
 
 AFX aims to realize these through institutional design.
 
-## **4\. Terminology and Technical Definitions (Reading Aid and Verification Basis)**
+## **4\. Terminology and Technical Definitions (Glossary and Definitions)**
 
 This chapter aims to clarify key concepts and technical terms used in this document from technical and legal perspectives.
 
