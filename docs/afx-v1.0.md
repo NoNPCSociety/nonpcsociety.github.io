@@ -100,7 +100,7 @@ However, in the realm of meme-type and community-type tokens, clear revenue prod
 
 Therefore, it is difficult to transplant the Real Yield model directly.
 
-Thus, AFX shifts to a structure where the fees generated from the trading act itself—accompanying market participation—serve as the circulating resource, acting as a substitute for "revenue products."
+Thus, AFX shifts to a structure where the fees generated from the trading act itself—arising from market participation—serve as the circulating resource, acting as a substitute for "revenue products."
 
 ### **1.4 Design Requirements Derived from Historical Failures**
 
