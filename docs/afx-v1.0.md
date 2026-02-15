@@ -28,6 +28,14 @@ Why have traditional token designs structurally collapsed?
 
 The purpose of this document is to verify these questions from quantitative and structural perspectives and to present a reproducible design.
 
+## Toward the Optimization of Fuel Dependency
+
+The ultimate destination of No NPC Society is the realization of a true DAO. However, for a DAO to function as an economic reality rather than a mere "pie in the sky," possessing an internal energy source is non-negotiable.
+
+To be clear, we do not deny the necessity of external fuel (capital inflow). Every asset class in the world requires market liquidity to survive; this is a universal economic law, not a condition unique to **$NONPC**. However, a structure that relies solely on new entrants to sustain existing value is structurally fragile.
+
+Therefore, our objective is the **Optimization of Fuel Dependency**. By establishing an internal circulation mechanism that complements external inflows, we aim to build a robust economy that can endure market cycles. Through the completion of **AFX**, **$NONPC** will transcend its initial shell as a "Meme Token" and sublimate into a "Protocol Token" backed by a self-sustaining engine.
+
 ## **1\. Why Traditional "Liquidity Incentives" Have Systematically Collapsed**
 
 Liquidity incentive designs in the crypto asset market have evolved through multiple stages.
