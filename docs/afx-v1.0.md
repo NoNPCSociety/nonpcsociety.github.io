@@ -15,8 +15,8 @@ This document serves as the canonical public technical specification of AFX.
 Note: This document serves as a technical appendix to the No NPC Society Whitepaper.   
 For the project's core philosophy, roadmap, and tokenomics overview, please refer to:
 
-Official Whitepaper (PDF): [https://nonpcsociety.com/docs/whitepaper-v1.0.pdf](https://nonpcsociety.com/docs/whitepaper-v1.0.pdf)  
-Official Whitepaper (Markdown): [https://github.com/NoNPCSociety/nonpcsociety.github.io/blob/main/docs/whitepaper-v1.0.md](https://github.com/NoNPCSociety/nonpcsociety.github.io/blob/main/docs/whitepaper-v1.0.md)
+- Official Whitepaper (PDF): https://nonpcsociety.com/docs/whitepaper-v1.0.pdf
+- Official Whitepaper (Markdown): https://github.com/NoNPCSociety/nonpcsociety.github.io/blob/main/docs/whitepaper-v1.0.md
 
 This document is a public technical paper that systematically organizes the "Awakening Flywheel Experiment (AFX)," an experimental model designed to self-circulate and expand liquidity and participant bases through on-chain verifiable institutional design, within a crypto asset market where short lifespans, instability, and opacity have become the norm.
 
