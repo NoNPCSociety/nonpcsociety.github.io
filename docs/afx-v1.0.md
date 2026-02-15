@@ -339,7 +339,7 @@ In this design, "not requiring external fund injection" means that growth resour
 
 Growth stops if no trading occurs, but this constraint itself is an institutional requirement that guarantees soundness.
 
-### **5.2 POL Processing Design (Fee Allocation and Reinvestment: Rebalancing Method)**
+### **5.2 POL Execution Framework (Fee Allocation and Reinvestment: Rebalancing Method)**
 
 Trading fees generated from LPs are accumulated as SOL and NONPC depending on the trade direction and pool state. Therefore, the collected fee assets are two assets (SOL, NONPC), and their composition ratio constantly fluctuates depending on the market environment.
 
