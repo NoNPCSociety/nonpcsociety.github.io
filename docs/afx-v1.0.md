@@ -22,9 +22,9 @@ This document is a public technical paper that systematically organizes the "Awa
 
 AFX is not merely a rulebook; it is a proposal and experiment for an "Autonomous Compounding Growth Model" that utilizes actual transaction fees as its sole energy source to mathematically maximize the capital retention rate.
 
-Why can this structure endure over the long term?
-
-Why have traditional token designs structurally collapsed?
+**Key Questions**
+- Why can this structure endure over the long term?
+- Why have traditional token designs structurally collapsed?
 
 The purpose of this document is to verify these questions from quantitative and structural perspectives and to present a reproducible design.
 
