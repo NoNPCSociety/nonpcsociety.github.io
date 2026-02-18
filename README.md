@@ -106,7 +106,8 @@ AFX (PDF Version for Distribution):
 ## Author
 
 Koichi Hatta – Serial Crypto Architect  
-Full Profile (Markdown): docs/koichi-hatta.md
+Full Profile (Markdown):  
+docs/koichi-hatta.md
 
 ---
 
