@@ -103,14 +103,12 @@ AFX (PDF Version for Distribution):
 
 ---
 
-## Medium:
-https://medium.com/@info_nonpcsociety.com
-
----
-
 ## Author
 
 Koichi Hatta – Serial Crypto Architect  
-[docs/koichi-hatta.md](docs/koichi-hatta.md)
+Full Profile (Markdown): docs/koichi-hatta.md
 
+---
 
+## Medium:
+https://medium.com/@info_nonpcsociety.com
