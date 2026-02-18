@@ -107,7 +107,7 @@ AFX (PDF Version for Distribution):
 
 Koichi Hatta – Serial Crypto Architect  
 Full Profile (Markdown):  
-docs/koichi-hatta.md
+[Koichi Hatta Profile](https://github.com/NoNPCSociety/nonpcsociety.github.io/blob/main/docs/koichi-hatta.md)
 
 ---
 
