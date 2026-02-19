@@ -1382,7 +1382,7 @@ footer.u-footer .footer-buttons-block .footer-icon-group {
   display: flex;
   flex-direction: row;
   align-items: center;
-  gap: 12px;
+  gap: 20px;
 }
 
 footer.u-footer .footer-buttons-block .footer-address {
