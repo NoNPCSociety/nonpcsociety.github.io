@@ -101,6 +101,9 @@ AFX (PDF Version for Distribution):
 - **Crypto Projects Must Forge Their Own Path Towards Community Governance** (Analytics Insight)  
   https://www.analyticsinsight.net/cryptocurrency-analytics-insight/crypto-projects-must-forge-own-path-towards-community-governance
 
+- **Beyond DeFi: How DAOs Are Reshaping Digital Coordination** (U.Today)  
+  https://u.today/beyond-defi-how-daos-are-reshaping-digital-coordination
+
 ---
 
 ## Author
