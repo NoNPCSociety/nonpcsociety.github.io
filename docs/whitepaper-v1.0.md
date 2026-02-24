@@ -210,9 +210,11 @@ https://nonpcsociety.com/docs/whitepaper-v1.0.pdf
 
 ## Appendix: On-Chain Allocation Log
 
-### Developer Allocation Update (2026-03-25)
+### Developer Allocation Update (2026-02-24 UTC)
 
-On 2026-03-25 (UTC), No NPC Society allocated 20,000,000,000 $NONPC (2% of total supply) to a newly onboarded core development member.
+On 2026-02-24 (UTC), No NPC Society allocated 20,000,000,000 $NONPC (2% of total supply)...
+
+Vesting begins on 2026-03-25 (UTC).
 
 This allocation was executed from the long-term custody multisig (Squads #1) and placed under a structured vesting schedule via Streamflow.
 
@@ -251,6 +253,3 @@ This allocation does not alter the total supply, mint parameters, or previously 
 ---
 
 End of Document.
-
-
-
