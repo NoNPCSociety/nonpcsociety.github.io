@@ -208,6 +208,49 @@ https://nonpcsociety.com/docs/whitepaper-v1.0.pdf
 
 ---
 
+## Appendix: On-Chain Allocation Log
+
+### Developer Allocation Update (2026-03-25)
+
+On 2026-03-25 (UTC), No NPC Society allocated 20,000,000,000 $NONPC (2% of total supply) to a newly onboarded core development member.
+
+This allocation was executed from the long-term custody multisig (Squads #1) and placed under a structured vesting schedule via Streamflow.
+
+**Source (Squads #1 – Long-Term Custody Multisig):**  
+53eyssmUhwAhPexUwSeBa8Zwop8aMdCUPr7VGNMsG2qk  
+
+**Recipient (Developer Wallet):**  
+FnqNP8aVUDshTtsNF5GZfz985q6t5znzgfexB1rNKRbg  
+
+**Allocation Amount:**  
+20,000,000,000 $NONPC (2%)
+
+### Vesting Structure (Streamflow – Non-Custodial)
+
+- 1-month full lock  
+- Followed by 5-month linear monthly release  
+- Non-cancelable  
+- Recipient cannot be changed  
+
+**Streamflow Vesting Contract:**  
+https://app.streamflow.finance/contract/solana/mainnet/F79g3XM6TS3zbtRtm3gAs37pNKM6RgHvqGwo28KvevKe?new  
+
+### On-Chain Transactions
+
+Tx1  
+https://solscan.io/tx/388yx5ptzYWdX9ehLsikxhP3U8CxnrbhHYw6Uqd4CpXsbeK4zipZ6ttsHbqQnrgbGKzgZrz8j6xGJnHwqd4SH81W  
+
+Tx2  
+https://solscan.io/tx/ibVQGXCfg6vLQtjPWD9ipsA46q81hSG8YEMc4qE326CePKpFFSP9AWmSZaXBRfcGqegC5S3khGCnEeYD1rj5tcD  
+
+Tx3  
+https://solscan.io/tx/3fKjhYUHwjUu5KZ18194qtTdp6LbEp81pWjTuPuD2rURW21vByCLL2q8WiBV8YaZf42S9jFm5J2XsNwuXkvbxjC4  
+
+This allocation does not alter the total supply, mint parameters, or previously defined tokenomics structure. All transactions are publicly verifiable on-chain.
+
+---
+
 End of Document.
+
 
 
