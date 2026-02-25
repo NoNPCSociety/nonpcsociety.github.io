@@ -86,8 +86,9 @@ AFX (PDF Version for Distribution):
 ## Campaign Documentation
 
 - **Awakening Airdrop Quest v1.0** —  
-  Six-month liquidity-preserving incentive framework for $NONPC.  
-  [View Document](https://github.com/NoNPCSociety/nonpcsociety.github.io/blob/main/docs/awakening-airdrop-quest-v1.md)
+  Six-month liquidity-preserving incentive architecture for $NONPC.  
+  [Markdown Source](https://github.com/NoNPCSociety/nonpcsociety.github.io/blob/main/docs/awakening-airdrop-quest-v1.md)  
+  [Official Release](https://github.com/NoNPCSociety/nonpcsociety.github.io/releases/tag/aaq-v1.0)
 
 ---
 
