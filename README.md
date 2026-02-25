@@ -84,6 +84,13 @@ AFX (PDF Version for Distribution):
 
 ---
 
+## Campaign Documentation
+
+- Awakening Airdrop Quest v1.0  
+  https://github.com/NoNPCSociety/nonpcsociety.github.io/blob/main/docs/awakening-airdrop-quest-v1.md
+
+---
+
 ## Media Coverage
 
 - **Web3 Fails to Empower Without Education, Clarity and Trust** (Coinpaper)  
