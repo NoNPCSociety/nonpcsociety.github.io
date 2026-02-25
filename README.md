@@ -23,7 +23,6 @@ Core Research: [Awakening Flywheel Experiment (AFX) – Original Technical Speci
 - **Chain:** Solana  
 - **Token Standard:** SPL Token Program  
 - **Explorer:** [View on Solscan](https://solscan.io/token/8rmZUcQsQKWBZ2WDPoTwkkiFsuhABXQX7o4xysf7Cgyp)
- 
 
 ---
 
@@ -86,8 +85,9 @@ AFX (PDF Version for Distribution):
 
 ## Campaign Documentation
 
-- Awakening Airdrop Quest v1.0  
-  https://github.com/NoNPCSociety/nonpcsociety.github.io/blob/main/docs/awakening-airdrop-quest-v1.md
+- **Awakening Airdrop Quest v1.0** —  
+  Six-month liquidity-preserving incentive framework for $NONPC.  
+  [View Document](https://github.com/NoNPCSociety/nonpcsociety.github.io/blob/main/docs/awakening-airdrop-quest-v1.md)
 
 ---
 
