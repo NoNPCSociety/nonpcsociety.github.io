@@ -12,7 +12,8 @@ $NONPC is a Solana-based decentralized movement exploring simulation theory and 
 
 This repository hosts official resources, documentation, and technical specifications.
 
-Core Research: [Awakening Flywheel Experiment (AFX) – Original Technical Specification](docs/afx-v1.0.md)
+Core Research:  
+[Awakening Flywheel Experiment (AFX) – Official Technical Specification v1.0](https://github.com/NoNPCSociety/nonpcsociety.github.io/releases/tag/afx-v1.0)
 
 ---
 
@@ -49,7 +50,8 @@ All addresses above are publicly verifiable on Solana explorers.
 
 $NONPC uses the standard Solana SPL Token Program.  
 No custom token contract is deployed.
-The Awakening Flywheel Experiment (AFX) is an original protocol architecture designed and formally defined by No NPC Society in 2026.
+
+The Awakening Flywheel Experiment (AFX) and the Awakening Creator Engine (ACE) are original protocol architectures designed and formally defined by No NPC Society.
 
 Operational procedures for treasury management are executed through multisig governance.
 
@@ -60,13 +62,14 @@ Operational procedures for treasury management are executed through multisig gov
 This repository will be continuously updated with:
 
 - DAO documentation  
-- [Awakening Flywheel Experiment (AFX) – Technical Specification](docs/afx-v1.0.md)
 - Governance resources  
-- Technical references
+- Technical references  
+
+Official frozen specifications are maintained via GitHub Releases (see Core Documentation below).
 
 ---
 
-## Core Documentation
+## Core Documentation (Official Release Versions)
 
 Whitepaper – Official Release:  
 [Whitepaper v1.0](https://github.com/NoNPCSociety/nonpcsociety.github.io/releases/tag/whitepaper-v1.0)
@@ -77,17 +80,18 @@ Awakening Flywheel Experiment (AFX) – Official Technical Specification Release
 ACE (Awakening Creator Engine) – Public Specification (Versioned Release):  
 [ACE Public Specification v1.0](https://github.com/NoNPCSociety/nonpcsociety.github.io/releases/tag/ace-v1.0)
 
-All GitHub release versions serve as the authoritative source of record.
+All GitHub release versions serve as the authoritative source of record.  
 Any future modifications will be versioned and published under new release tags.
 
 ---
 
 ## Campaign Documentation
 
-- **Awakening Airdrop Quest v1.0** —  
-  Six-month liquidity-preserving incentive architecture for $NONPC.  
-  [Markdown Source](https://github.com/NoNPCSociety/nonpcsociety.github.io/blob/main/docs/awakening-airdrop-quest-v1.md)  
-  [Official Release](https://github.com/NoNPCSociety/nonpcsociety.github.io/releases/tag/aaq-v1.0)
+Awakening Airdrop Quest v1.0 —  
+Six-month liquidity-preserving incentive architecture for $NONPC.
+
+Official Release:  
+[Awakening Airdrop Quest v1.0](https://github.com/NoNPCSociety/nonpcsociety.github.io/releases/tag/aaq-v1.0)
 
 ---
 
@@ -116,10 +120,12 @@ Any future modifications will be versioned and published under new release tags.
 ## Author
 
 Koichi Hatta – Serial Crypto Architect  
-Full Profile (Markdown):  
+
+Full Profile:  
 [Koichi Hatta Profile](https://github.com/NoNPCSociety/nonpcsociety.github.io/blob/main/docs/koichi-hatta.md)
 
 ---
 
-## Medium:
+## Medium
+
 https://medium.com/@info_nonpcsociety.com
