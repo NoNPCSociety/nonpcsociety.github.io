@@ -53,7 +53,7 @@ Round
 A complete ACE contest cycle (submission → finalist selection → voting → mint → sale → settlement).
 
 T0 (Round Start Time)  
-The officially published start timestamp of a Round. All eligibility thresholds are finalized at T0 and remain fixed throughout the Round.
+The officially published start timestamp of a Round (UTC). All eligibility thresholds are finalized at T0 and remain fixed throughout the Round.
 
 1/1 (Single Unique NFT)  
 Exactly one NFT is minted for that artwork.
@@ -69,6 +69,9 @@ The designated DAO-controlled wallet receiving ACE program proceeds.
 
 Creator Registry  
 The permanent, append-only record of official ACE creators and associated on-chain references.
+
+Primary Pool  
+The officially designated NONPC/SOL liquidity pool used for price determination in a given Round.
 
 ---
 
@@ -122,7 +125,18 @@ The USD equivalent of $NONPC is determined using:
 - A 24-hour price window immediately preceding T0  
 - Price samples taken at 5-minute intervals  
 
-## 5.2 Aggregation Method
+## 5.2 Primary Market Definition
+
+NONPC_SOL(t) MUST be derived from the designated Primary NONPC/SOL liquidity pool.
+
+ACE MUST publish:
+
+- The DEX name
+- The pool address
+
+If the Primary Pool changes, the change MUST be announced prior to T0.
+
+## 5.3 Aggregation Method
 
 For each sample:
 
@@ -132,27 +146,37 @@ The median value across all samples is used:
 
 NONPC_USD_MEDIAN
 
-## 5.3 Conversion Formulas
+## 5.4 Conversion Formulas
 
 REQ_SUBMIT_NONPC = ceil(50 / NONPC_USD_MEDIAN)  
 REQ_VOTE_NONPC   = ceil(15 / NONPC_USD_MEDIAN)
 
 These values are fixed at T0 and remain unchanged for the Round.
 
-## 5.4 Guardrails
+## 5.5 Guardrails
 
 Required amounts are clipped to:
 
 Minimum: 0.5× previous Round requirement  
 Maximum: 2.0× previous Round requirement  
 
-## 5.5 Publication Requirement
+## 5.6 Publication Requirements
 
-ACE must publish:
+ACE MUST publish:
 
-- 24-hour dataset  
-- Computed median value  
-- Final required token amounts  
+- Full 24-hour dataset
+- NONPC_USD_MEDIAN value
+- Final required token amounts
+
+### Minimum Dataset Fields
+
+The dataset MUST include:
+
+- Timestamp (UTC)
+- NONPC_SOL(t)
+- SOL_USD(t)
+- Derived NONPC_USD(t)
+- Final NONPC_USD_MEDIAN
 
 ---
 
@@ -165,7 +189,7 @@ By submitting a work, the creator represents and warrants that:
 1. The submission is original or properly licensed.
 2. The creator possesses all necessary rights to mint and commercialize the work.
 3. The work does not infringe intellectual property, publicity, or contractual rights of any third party.
-4. The submission does not contain illegal or prohibited material.
+4. The submission does not contain illegal, hateful, explicit sexual, or doxxing-related content.
 5. The creator accepts full legal responsibility for any infringement claim arising from the submission.
 
 ## 6.2 License Grant
@@ -186,13 +210,13 @@ Submissions may only be rejected for:
 - Prohibited or illegal content
 - Incomplete or invalid submission
 
-ACE must publish:
+ACE MUST publish:
 
 - Total number of submissions
 - Total rejected count
 - Rejection counts categorized by reason
 
-Individual rejection explanations are not required to be publicly disclosed.
+Individual rejection explanations are not required.
 
 ---
 
@@ -205,19 +229,21 @@ ACE does not guarantee detection of all potential infringements.
 
 ## 7.2 Limitation of Liability
 
-ACE acts as a platform facilitator and does not assume ownership of third-party rights.  
+ACE acts as a platform facilitator.  
 Legal responsibility for infringement remains with the submitting creator.
 
 ## 7.3 Post-Mint Claim Procedure
 
-If a credible intellectual property claim is raised:
-
-ACE reserves the right to:
+If a credible intellectual property claim is raised, ACE reserves the right to:
 
 - Temporarily suspend sales  
-- Delist the NFT from official channels  
-- Freeze further minting (if applicable)  
+- Delist the NFT  
+- Freeze further minting  
 - Withhold pending distributions  
+
+### Distribution Withholding Scope
+
+Any withholding MUST be limited strictly to proceeds directly attributable to the disputed work(s).
 
 ## 7.4 Resolution Authority
 
@@ -237,10 +263,18 @@ If submissions exceed 50:
 
 - 50 finalists are selected via deterministic lottery.
 
-ACE must publish:
+ACE MUST publish:
 
-- Total submission count  
-- Finalist list  
+- Total submission count
+- Finalist list
+
+### Finalist List Publication Format
+
+The published list MUST include:
+
+- Submission ID
+- Artwork reference hash
+- Creator wallet address
 
 ---
 
@@ -248,10 +282,12 @@ ACE must publish:
 
 Each eligible wallet may approve up to 3 works.
 
-ACE must publish:
+Each approval counts as one vote.
 
-- Vote totals for each finalist  
-- Final ranking  
+ACE MUST publish:
+
+- Vote totals for each finalist
+- Final ranking of all finalists
 
 ---
 
@@ -264,7 +300,7 @@ Grand Winner
 Runner-ups  
 - 1 × 1/1 NFT each  
 
-All NFTs belong to the verified official ACE collection.
+All NFTs must belong to the verified official ACE collection.
 
 ---
 
@@ -291,24 +327,24 @@ ACE Treasury Allocation
 - 80% → Liquidity  
 - 20% → DAO / Operations  
 
-All transactions must be publicly disclosed.
+All transactions MUST be publicly disclosed.
 
 ---
 
 # 13. Reporting Requirements
 
-ACE must publish:
+ACE MUST publish:
 
 - Round parameters  
-- Eligibility calculation data  
+- Eligibility calculation dataset  
 - Total submission count  
 - Rejection category counts  
 - Finalist list  
 - Vote totals  
 - NFT mint addresses  
 - Sales data  
-- Creator payouts  
-- Treasury receipts  
+- Creator payout transactions  
+- Treasury receipt transactions  
 - Liquidity transactions  
 
 ---
