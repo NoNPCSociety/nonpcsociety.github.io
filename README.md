@@ -72,13 +72,13 @@ Official frozen specifications are maintained via GitHub Releases (see Core Docu
 ## Core Documentation (Official Release Versions)
 
 Whitepaper – Official Release:  
-[Whitepaper v1.0](https://github.com/NoNPCSociety/nonpcsociety.github.io/releases/tag/whitepaper-v1.0)
+[whitepaper-v1.0](https://github.com/NoNPCSociety/nonpcsociety.github.io/releases/tag/whitepaper-v1.0)
 
 Awakening Flywheel Experiment (AFX) – Official Technical Specification Release:  
-[AFX v1.0](https://github.com/NoNPCSociety/nonpcsociety.github.io/releases/tag/afx-v1.0)
+[afx-v1.0](https://github.com/NoNPCSociety/nonpcsociety.github.io/releases/tag/afx-v1.0)
 
-ACE (Awakening Creator Engine) – Public Specification (Versioned Release):  
-[ACE Public Specification v1.0](https://github.com/NoNPCSociety/nonpcsociety.github.io/releases/tag/ace-v1.0)
+ACE (Awakening Creator Engine) – Public Specification (Official Release):  
+[ace-v1.1](https://github.com/NoNPCSociety/nonpcsociety.github.io/releases/tag/ace-v1.1)
 
 All GitHub release versions serve as the authoritative source of record.  
 Any future modifications will be versioned and published under new release tags.
