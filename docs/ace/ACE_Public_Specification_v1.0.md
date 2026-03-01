@@ -1,119 +1,92 @@
 
-- Submissions are ordered deterministically.
-- First 50 become finalists.
+Selection is:
 
-### 8.2 Publication Requirements
+- Deterministic  
+- Publicly reproducible  
+- Fully verifiable  
 
-ACE MUST publish:
-
-- Block slot number
-- Blockhash
-- Seed value
-- Ordered submission list
-- Final finalist list
+No manual intervention permitted.
 
 ---
 
-# 9. Voting
+# 6. Voting Transparency
 
-Each eligible wallet may approve up to 3 works.
+- One wallet = one voting action  
+- Maximum 3 approvals  
+- No vote weighting  
+- No hidden scoring  
 
-Each approval counts as one vote.
+After finalization:
 
-ACE MUST publish:
-
-- Vote totals for each finalist
-- Final ranking
-
----
-
-# 10. Minting Structure
-
-Grand Winner:
-- 1 × 1/1 NFT
-- 1 × Open Edition NFT
-
-Runner-ups:
-- 1 × 1/1 NFT each
+- All finalist vote counts are publicly disclosed  
+- No discretionary override allowed  
 
 ---
 
-# 11. Sales Rules
+# 7. Open Edition (OE)
 
-## 11.1 1/1 Auction
+After winner determination:
 
-- 48 hours
-- 5-minute anti-sniping extension
+- Open Edition NFT may be offered  
+- Price: USD $20 equivalent  
+- Uses the same T0 Reference Price  
+- Price remains fixed for 24 hours  
 
-## 11.2 Open Edition
-
-- 24-hour sale window
-- $20 equivalent pricing
-
-### OE Price Conversion Rule
-
-USD → SOL conversion MUST use the same 24-hour SOL/USD median calculated at T0.
-
-Minting permanently closes at window end.
+No dynamic repricing.
 
 ---
 
-# 12. Revenue Allocation
+# 8. Intellectual Property Risk Management
 
-Primary Sales:
-- 50% → Creator
-- 50% → ACE Treasury
+ACE operates under the following framework:
 
-Treasury Allocation:
-- 80% → Liquidity
-- 20% → DAO / Operations
-
-### Liquidity Execution Requirement
-
-Liquidity addition MUST occur within 7 days of settlement (UTC).
-
-All transactions MUST be publicly disclosed.
+- Creators provide representation and warranty of originality  
+- Good-faith review conducted  
+- Distribution hold applies only to the specific disputed work  
+- No systemic halt of the entire round  
 
 ---
 
-# 13. Reporting Requirements
+# 9. Non-Discretionary Principles
 
-ACE MUST publish:
+ACE prohibits:
 
-- Round parameters
-- Eligibility dataset
-- Submission count
-- Rejection categories
-- Finalist list (Submission ID + Artwork Hash + Creator Wallet)
-- Vote totals
-- NFT mint addresses
-- Sales data
-- Creator payouts
-- Treasury receipts
-- Liquidity transaction references
+- Manual winner override  
+- Retroactive pricing changes  
+- Selective liquidity injection  
+- Hidden treasury allocation  
+- Undisclosed wallet privileges  
+
+All structural rules are predefined and public.
 
 ---
 
-# 14. Creator Registry
+# 10. Transparency Commitments
 
-Append-only public registry including:
+The following will be publicly disclosed:
 
-- Round ID
-- Creator wallet
-- Winner tier
-- Mint address
-- Revenue references
+- T0 reference calculation methodology  
+- Median sampling logic  
+- Guardrail application  
+- Random selection proof  
+- Final vote totals  
+- Liquidity injection transactions  
 
----
-
-# 15. Governance
-
-Core parameters fixed in v1.0.
-
-Changes may occur only between Rounds.
-
-Future structural amendments should require DAO approval.
+The Public Specification serves as the authoritative structural document.
 
 ---
 
-End of ACE Public Specification v1.0
+# 11. Structural Objective
+
+ACE exists to:
+
+- Create recurring internal capital  
+- Strengthen liquidity depth  
+- Build a sustainable DAO treasury  
+- Reduce dependency on new speculative inflows  
+
+It is designed as an internal engine for long-term capital formation.
+
+---
+
+**End of Document**
