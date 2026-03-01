@@ -1,248 +1,299 @@
-# ACE (Awakening Creator Engine)
-## Public Specification v1.0
-Project: No NPC Society ($NONPC)  
-Chain: Solana  
+# ACE (Awakening Creator Engine) NFT Program
+## Public Specification v1.1
+Project: No NPC Society ($NONPC)
 
 ---
 
-# 1. Executive Overview
+# Executive Overview
 
-ACE (Awakening Creator Engine) is the internal capital generation mechanism of No NPC Society.
+ACE (Awakening Creator Engine) is a structural internal revenue mechanism of No NPC Society.
 
-Its objective is to establish a sustainable financial structure that does not depend solely on external capital inflows or continuous new investor participation.
+Its purpose is to build a strong and resilient financial foundation that does not depend solely on external capital inflows or new investor participation.
 
-Instead of relying exclusively on speculative demand, ACE introduces a recurring, rule-based NFT program that:
+Instead of relying exclusively on speculative demand, ACE introduces a recurring, community-driven NFT program that generates internal capital and systematically routes that capital into creator rewards and protocol-level growth.
 
-- Generates internal capital  
-- Rewards creators  
-- Strengthens liquidity  
-- Expands the DAO treasury  
+ACE is:
 
-ACE is designed to be:
+- A recurring NFT contest
+- Open to public creator participation (primarily community members)
+- Fully rule-based and transparently executed
+- Economically structured to reinforce liquidity and DAO treasury growth
 
-- Transparent  
-- Deterministic  
-- Publicly verifiable  
-- Structurally non-discretionary  
+Under ACE:
 
-The ultimate purpose is sustained capital formation through an internal economic engine.
+- Creators submit original works
+- Community voting determines winners
+- Winning works are minted as official NFTs
+- Primary sale proceeds are split:
+  - 50% → Creator
+  - 50% → ACE Treasury
+- Treasury proceeds are allocated:
+  - 80% → Liquidity (NONPC/SOL)
+  - 20% → DAO / Operations
 
----
-
-# 2. Structural Design
-
-## 2.1 Program Format
-
-ACE operates as a recurring NFT contest mechanism.
-
-Each round includes:
-
-1. Submission phase  
-2. Qualification (if necessary)  
-3. Voting phase  
-4. Winner selection  
-5. NFT issuance  
-6. Treasury allocation and liquidity injection  
+Through this structure, ACE transforms creative participation into a sustainable internal capital engine.
 
 ---
 
-## 2.2 Participation Eligibility
+# 1. Foundational Principles
 
-### Submission Requirement
-
-To submit an entry, a participant must spend at least:
-
-**USD $50 equivalent in SOL**
-
-The USD value is determined using the defined Price Determination Mechanism (Section 4).
+1. Transparency — All economically meaningful actions must be publicly verifiable.
+2. Rule-Based Execution — Round parameters are fixed before each Round begins and cannot change mid-Round.
+3. Community Sovereignty — Winners are determined by community participation within predefined rules.
+4. Sustainable Capital Formation — Proceeds are systematically allocated to creators and protocol-level growth.
+5. Legal Risk Containment — Intellectual property risk is mitigated through structured declarations and safeguards.
 
 ---
 
-### Voting Requirement
+# 2. Core Definitions
 
-To participate in voting, a wallet must spend at least:
+Round  
+A complete ACE contest cycle.
 
-**USD $15 equivalent in SOL**
+T0  
+The officially published Round start timestamp (UTC).
 
-Each eligible wallet may cast:
-
-- Maximum 3 approvals  
-- 1 approval = 1 vote  
-- 1 wallet = 1 voting action  
-
-All vote totals will be publicly disclosed.
+Primary Pool  
+The designated NONPC/SOL liquidity pool used for price determination.
 
 ---
 
-# 3. Revenue Distribution
+# 3. Round Structure
 
-## 3.1 Primary Split
+Each Round consists of:
 
-NFT sales revenue is allocated as follows:
+1. Submission  
+2. Finalist Selection  
+3. Voting  
+4. Minting  
+5. Settlement & Reporting  
 
-- 50% → Winning Creator  
-- 50% → ACE Treasury  
-
----
-
-## 3.2 Treasury Allocation
-
-Treasury funds are further allocated:
-
-- 80% → NONPC/SOL liquidity addition  
-- 20% → DAO / Operational allocation  
+All parameters must be published prior to T0.
 
 ---
 
-## 3.3 Liquidity Commitment
+# 4. Eligibility Requirements (USD-Linked)
 
-- 80% of Treasury funds must be added to liquidity  
-- Liquidity must be added within 7 days of round completion  
-- All transactions will be publicly disclosed  
+Submission: ≥ $50 equivalent  
+Voting: ≥ $15 equivalent  
 
----
+Holding Duration:
 
-# 4. Price Determination Mechanism
+- Submission: 14 days continuous
+- Voting: 7 days continuous
 
-To eliminate price manipulation and timing exploitation, ACE uses a deterministic USD conversion model.
-
-## 4.1 Observation Window
-
-- 24-hour observation window  
-- 5-minute interval price sampling  
-- Median price is calculated  
-
-The calculated value is defined as:
-
-**T0 Reference Price**
+One wallet → maximum 1 submission  
+One wallet → maximum 1 vote action  
 
 ---
 
-## 4.2 Guardrail
+# 5. USD Conversion Method
 
-To prevent extreme deviation:
+## 5.1 Price Window
 
-- Minimum bound: 0.5× previous round reference  
-- Maximum bound: 2.0× previous round reference  
+- 24 hours preceding T0
+- 5-minute interval sampling
 
-If the median exceeds these bounds, it is clamped within the guardrail range.
+## 5.2 Primary Market Definition
+
+NONPC_SOL(t) MUST be derived from the designated Primary NONPC/SOL liquidity pool.
+
+ACE MUST publish:
+
+- DEX name
+- Pool address
+
+If changed, it MUST be announced before T0.
+
+## 5.3 Aggregation
+
+NONPC_USD(t) = NONPC_SOL(t) × SOL_USD(t)
+
+Median across samples = NONPC_USD_MEDIAN
+
+## 5.4 Conversion
+
+REQ_SUBMIT = ceil(50 / NONPC_USD_MEDIAN)  
+REQ_VOTE   = ceil(15 / NONPC_USD_MEDIAN)
+
+Values are fixed at T0.
+
+## 5.5 Guardrails
+
+0.5×–2.0× previous Round requirement.
+
+## 5.6 Publication Requirements
+
+ACE MUST publish:
+
+- Full 24-hour dataset
+- NONPC_USD_MEDIAN
+- Required token amounts
+
+Dataset MUST include:
+
+- Timestamp (UTC)
+- NONPC_SOL(t)
+- SOL_USD(t)
+- NONPC_USD(t)
+- NONPC_USD_MEDIAN
 
 ---
 
-## 4.3 T0 Fixation
+# 6. Submission Rules
 
-Once determined:
+Creators warrant originality and legal compliance.
 
-- T0 is fixed  
-- All USD calculations for that round use T0  
-- No retroactive adjustment  
+ACE MUST publish:
+
+- Total submissions
+- Total rejected
+- Rejection categories
 
 ---
 
-# 5. Oversubscription Selection (If >50 Entries)
+# 7. Intellectual Property Risk Management
 
-If submissions exceed 50 entries, a deterministic random selection process is applied.
+Good-faith review standard applies.
 
-## 5.1 Randomness Source
+Distribution withholding MUST be limited strictly to proceeds attributable to disputed works.
 
-- A publicly announced future Solana block  
-- The corresponding blockhash  
+---
+
+# 8. Finalist Determination
+
+If submissions exceed 50:
+
+## 8.1 Deterministic Lottery
+
+- A specific blockchain block slot MUST be pre-announced.
+- The blockhash of that slot MUST be used as entropy.
 
 Seed formula:
 
-```
 seed = SHA256(RoundID + ":" + blockhash)
-```
 
-Selection is:
+- Submissions are deterministically ordered using the seed.
+- First 50 become finalists.
 
-- Deterministic  
-- Publicly reproducible  
-- Fully verifiable  
+## 8.2 Publication
 
-No manual intervention is permitted.
+ACE MUST publish:
 
----
+- Block slot number
+- Blockhash
+- Seed value
+- Ordered submission list
+- Final finalist list
 
-# 6. Voting Transparency
+### Finalist List MUST include:
 
-- One wallet = one voting action  
-- Maximum 3 approvals  
-- No vote weighting  
-- No hidden scoring  
-
-After finalization:
-
-- All finalist vote counts are publicly disclosed  
-- No discretionary override allowed  
+- Submission ID
+- Artwork reference hash
+- Creator wallet address
 
 ---
 
-# 7. Open Edition (OE)
+# 9. Voting
 
-After winner determination:
+Each eligible wallet may approve up to 3 works.
 
-- An Open Edition NFT may be offered  
-- Price: USD $20 equivalent  
-- Uses the same T0 Reference Price  
-- Price remains fixed for 24 hours  
+Each approval counts as one vote.
 
-No dynamic repricing is permitted.
+ACE MUST publish:
 
----
-
-# 8. Intellectual Property Risk Management
-
-ACE operates under the following framework:
-
-- Creators provide representation and warranty of originality  
-- Good-faith review is conducted  
-- Distribution hold applies only to the specific disputed work  
-- No systemic halt of the entire round  
+- Vote totals for each finalist
+- Final ranking
 
 ---
 
-# 9. Non-Discretionary Principles
+# 10. Minting Structure
 
-ACE prohibits:
+Grand Winner:
+- 1 × 1/1 NFT
+- 1 × Open Edition NFT
 
-- Manual winner override  
-- Retroactive pricing changes  
-- Selective liquidity injection  
-- Hidden treasury allocation  
-- Undisclosed wallet privileges  
+Runner-ups:
+- 1 × 1/1 NFT each
 
-All structural rules are predefined and public.
-
----
-
-# 10. Transparency Commitments
-
-The following will be publicly disclosed:
-
-- T0 reference calculation methodology  
-- Median sampling logic  
-- Guardrail application  
-- Random selection proof  
-- Final vote totals  
-- Liquidity injection transactions  
-
-This Public Specification serves as the authoritative structural document.
+All NFTs must belong to the verified official ACE collection.
 
 ---
 
-# 11. Structural Objective
+# 11. Sales Rules
 
-ACE exists to:
+## 11.1 1/1 Auction
 
-- Create recurring internal capital  
-- Strengthen liquidity depth  
-- Build a sustainable DAO treasury  
-- Reduce dependency on new speculative inflows  
+- 48 hours
+- 5-minute anti-sniping extension
 
-It is designed as an internal engine for long-term capital formation.
+## 11.2 Open Edition
+
+- 24-hour window
+- $20 equivalent pricing
+
+### OE Price Conversion Rule
+
+USD → SOL conversion MUST use the same 24-hour SOL/USD median calculated at T0.
+
+Minting permanently closes at window end.
 
 ---
 
-**End of Document**
+# 12. Revenue Allocation
 
+Primary Sales:
+- 50% → Creator
+- 50% → ACE Treasury
+
+Treasury Allocation:
+- 80% → Liquidity
+- 20% → DAO / Operations
+
+Liquidity addition MUST occur within 7 days of settlement (UTC).
+
+All transactions MUST be publicly disclosed.
+
+---
+
+# 13. Reporting Requirements
+
+ACE MUST publish:
+
+- Round parameters
+- Eligibility dataset
+- Total submission count
+- Rejection categories
+- Finalist list
+- Vote totals
+- NFT mint addresses
+- Sales data
+- Creator payout transactions
+- Treasury receipt transactions
+- Liquidity transaction references
+
+---
+
+# 14. Creator Registry
+
+Append-only public registry including:
+
+- Round ID
+- Creator wallet
+- Winner tier
+- Mint address
+- Revenue routing references
+
+---
+
+# 15. Governance & Amendments
+
+Core parameters fixed in v1.1.
+
+Changes may occur only between Rounds and must be publicly announced prior to T0.
+
+Future structural amendments require DAO approval once governance is active.
+
+---
+
+End of ACE Public Specification v1.1
