@@ -169,7 +169,7 @@ The Awakening Flywheel Experiment (AFX) is a structural extension model designed
 AFX operates as a protocol-level structural engine layered on top of the $NONPC base architecture.
 
 Full specification:
-https://github.com/NoNPCSociety/nonpcsociety.github.io/blob/main/docs/afx-v1.0.md
+https://github.com/NoNPCSociety/nonpcsociety.github.io/releases/tag/afx-v1.0.1
 
 ---
 
@@ -253,3 +253,4 @@ This allocation does not alter the total supply, mint parameters, or previously 
 ---
 
 End of Document.
+
