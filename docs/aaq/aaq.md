@@ -228,11 +228,11 @@ Participants are solely responsible for their decisions.
 
 ## 11. Canonical References
 
-Whitepaper (Official Source of Record):  
-https://github.com/NoNPCSociety/nonpcsociety.github.io/blob/main/docs/whitepaper-v1.0.md  
+Whitepaper (Authoritative Release):
+https://github.com/NoNPCSociety/nonpcsociety.github.io/releases/tag/whitepaper-v1.0.2
 
-AFX Technical Specification:  
-https://github.com/NoNPCSociety/nonpcsociety.github.io/blob/main/docs/afx-v1.0.md  
+AFX Technical Specification (Authoritative Release):
+https://github.com/NoNPCSociety/nonpcsociety.github.io/releases/tag/afx-v1.0.1
 
 Token Address (Solana SPL):  
 8rmZUcQsQKWBZ2WDPoTwkkiFsuhABXQX7o4xysf7Cgyp  
@@ -247,3 +247,4 @@ It is a bounded liquidity experiment designed to test whether incentive alignmen
 
 Structure over hype.  
 Durability over velocity.
+
