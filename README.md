@@ -91,8 +91,7 @@ Awakening Airdrop Quest v1.0 —
 Six-month liquidity-preserving incentive architecture for $NONPC.
 
 Official Release:  
-[Awakening Airdrop Quest v1.0](https://github.com/NoNPCSociety/nonpcsociety.github.io/releases/tag/aaq-v1.0)
-
+[aaq-v1.0.1](https://github.com/NoNPCSociety/nonpcsociety.github.io/releases/tag/aaq-v1.0.1)
 ---
 
 ## Media Coverage
