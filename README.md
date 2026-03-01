@@ -69,22 +69,17 @@ This repository will be continuously updated with:
 
 ## Core Documentation
 
-Whitepaper (Markdown):  
-[docs/whitepaper-v1.0.md](docs/whitepaper-v1.0.md)
+Whitepaper – Official Release:  
+[Whitepaper v1.0](https://github.com/NoNPCSociety/nonpcsociety.github.io/releases/tag/whitepaper-v1.0)
 
-Whitepaper (PDF):  
-[docs/whitepaper-v1.0.pdf](docs/whitepaper-v1.0.pdf)
-
-Awakening Flywheel Experiment (AFX) – Technical Specification (Markdown):  
-[docs/afx-v1.0.md](docs/afx-v1.0.md)
-
-AFX (PDF Version for Distribution):  
-[docs/afx-v1.0.pdf](docs/afx-v1.0.pdf)
+Awakening Flywheel Experiment (AFX) – Official Technical Specification Release:  
+[AFX v1.0](https://github.com/NoNPCSociety/nonpcsociety.github.io/releases/tag/afx-v1.0)
 
 ACE (Awakening Creator Engine) – Public Specification (Versioned Release):  
 [ACE Public Specification v1.0](https://github.com/NoNPCSociety/nonpcsociety.github.io/releases/tag/ace-v1.0)
 
-The GitHub release version serves as the authoritative source of record.
+All GitHub release versions serve as the authoritative source of record.
+Any future modifications will be versioned and published under new release tags.
 
 ---
 
