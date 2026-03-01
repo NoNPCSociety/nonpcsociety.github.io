@@ -122,7 +122,7 @@ Official Release:
 Koichi Hatta – Serial Crypto Architect  
 
 Full Profile:  
-[Koichi Hatta Profile](https://github.com/NoNPCSociety/nonpcsociety.github.io/releases/tag/profile-koichi-v1.0)
+[Koichi Hatta Profile](https://github.com/NoNPCSociety/nonpcsociety.github.io/blob/profile-koichi-v1.0/docs/koichi-hatta.md)
 
 ---
 
