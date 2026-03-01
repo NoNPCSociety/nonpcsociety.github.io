@@ -75,7 +75,7 @@ Whitepaper – Official Release:
 [whitepaper-v1.0](https://github.com/NoNPCSociety/nonpcsociety.github.io/releases/tag/whitepaper-v1.0)
 
 Awakening Flywheel Experiment (AFX) – Official Technical Specification Release:  
-[afx-v1.0](https://github.com/NoNPCSociety/nonpcsociety.github.io/releases/tag/afx-v1.0)
+[afx-v1.0.1](https://github.com/NoNPCSociety/nonpcsociety.github.io/releases/tag/afx-v1.0.1)
 
 ACE (Awakening Creator Engine) – Public Specification (Official Release):  
 [ace-v1.1](https://github.com/NoNPCSociety/nonpcsociety.github.io/releases/tag/ace-v1.1)
