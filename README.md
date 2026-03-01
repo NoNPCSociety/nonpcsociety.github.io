@@ -81,6 +81,11 @@ Awakening Flywheel Experiment (AFX) – Technical Specification (Markdown):
 AFX (PDF Version for Distribution):  
 [docs/afx-v1.0.pdf](docs/afx-v1.0.pdf)
 
+ACE (Awakening Creator Engine) – Public Specification (Versioned Release):  
+[ACE Public Specification v1.0](https://github.com/NoNPCSociety/nonpcsociety.github.io/releases/tag/ace-v1.0)
+
+The GitHub release version serves as the authoritative source of record.
+
 ---
 
 ## Campaign Documentation
