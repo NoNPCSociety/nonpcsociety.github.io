@@ -72,7 +72,7 @@ Official frozen specifications are maintained via GitHub Releases (see Core Docu
 ## Core Documentation (Official Release Versions)
 
 Whitepaper – Official Release:  
-[whitepaper-v1.0](https://github.com/NoNPCSociety/nonpcsociety.github.io/releases/tag/whitepaper-v1.0)
+[whitepaper-v1.0.1](https://github.com/NoNPCSociety/nonpcsociety.github.io/releases/tag/whitepaper-v1.0.1)
 
 Awakening Flywheel Experiment (AFX) – Official Technical Specification Release:  
 [afx-v1.0.1](https://github.com/NoNPCSociety/nonpcsociety.github.io/releases/tag/afx-v1.0.1)
