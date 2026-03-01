@@ -61,7 +61,6 @@ This repository will be continuously updated with:
 
 - DAO documentation  
 - [Awakening Flywheel Experiment (AFX) – Technical Specification](docs/afx-v1.0.md)
-- [PDF Version (for distribution)](docs/afx-v1.0.pdf)
 - Governance resources  
 - Technical references
 
