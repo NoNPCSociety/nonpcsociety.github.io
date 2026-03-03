@@ -232,7 +232,7 @@ Whitepaper (Authoritative Release):
 https://github.com/NoNPCSociety/nonpcsociety.github.io/releases/tag/whitepaper-v1.0.2
 
 AFX Technical Specification (Authoritative Release):
-https://github.com/NoNPCSociety/nonpcsociety.github.io/releases/tag/afx-v1.0.1
+https://github.com/NoNPCSociety/nonpcsociety.github.io/releases/tag/afx-v1.0.2
 
 Token Address (Solana SPL):  
 8rmZUcQsQKWBZ2WDPoTwkkiFsuhABXQX7o4xysf7Cgyp  
@@ -247,4 +247,5 @@ It is a bounded liquidity experiment designed to test whether incentive alignmen
 
 Structure over hype.  
 Durability over velocity.
+
 
