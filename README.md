@@ -144,7 +144,7 @@ Official Release:
   https://crypto.news/navigating-the-path-to-decentralized-governance/
 
 - **Crypto Projects Must Forge Their Own Path Towards Community Governance** (Analytics Insight)  
-  https://www.analyticsinsight.net/cryptocurrency-analytics-insight/crypto-projects-must-forge-own-pathwards-community-governance
+  https://www.analyticsinsight.net/cryptocurrency-analytics-insight/crypto-projects-must-forge-own-path-towards-community-governance
 
 - **Beyond DeFi: How DAOs Are Reshaping Digital Coordination** (U.Today)  
   https://u.today/beyond-defi-how-daos-are-reshaping-digital-coordination
