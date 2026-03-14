@@ -2,18 +2,24 @@
 
 # No NPC Society ($NONPC)
 
-Official repository for the $NONPC token and DAO on Solana.
+$NONPC is a post-DeFi capital architecture on Solana designed to build
+self-sustaining liquidity through internal revenue engines and community participation.
+
+Official repository for the $NONPC token and DAO.
 
 ---
 
-## Overview
+## Project Definition
 
-$NONPC is a Solana-based decentralized movement exploring simulation theory and human awakening.
+No NPC Society explores simulation theory as a narrative layer while architecting
+real on-chain capital coordination mechanisms.
 
-This repository hosts official resources, documentation, and technical specifications.
+The ecosystem focuses on:
 
-Core Research:  
-[Awakening Flywheel Experiment (AFX) – Official Technical Specification v1.0](https://github.com/NoNPCSociety/nonpcsociety.github.io/releases/tag/afx-v1.0.2)
+- Community-driven expansion  
+- Internal yield generation  
+- Liquidity growth without dilution  
+- Gradual transition toward DAO governance  
 
 ---
 
@@ -24,6 +30,18 @@ Core Research:
 - **Chain:** Solana  
 - **Token Standard:** SPL Token Program  
 - **Explorer:** [View on Solscan](https://solscan.io/token/8rmZUcQsQKWBZ2WDPoTwkkiFsuhABXQX7o4xysf7Cgyp)
+
+---
+
+## Credibility & Structural Safeguards
+
+- Mint Authority: Revoked  
+- Freeze Authority: Revoked  
+- Liquidity: Time-locked  
+- Treasury Custody: Squads Multisig  
+- Governance Path: DAO transition roadmap  
+
+All structural elements are publicly verifiable on-chain.
 
 ---
 
@@ -42,7 +60,22 @@ Community / Marketing
 ### Vault #3 – LP Operations Reserve  
 `H1t7gu3pQVr8AmbQ3LJTAJDvcNfZqc4RzDP7gvSpYwJP`
 
-All addresses above are publicly verifiable on Solana explorers.
+---
+
+## Ecosystem Architecture
+
+The NONPC ecosystem consists of three primary coordination layers:
+
+- **ACE (Awakening Creator Engine)**  
+  Community-native revenue generation mechanism.
+
+- **AFX (Awakening Flywheel Experiment)**  
+  Liquidity compounding architecture designed to strengthen market depth over time.
+
+- **AAQ (Awakening Airdrop Quest)**  
+  Incentive layer for expanding committed holder participation.
+
+Together these form a capital flywheel model rather than isolated token utilities.
 
 ---
 
@@ -51,7 +84,8 @@ All addresses above are publicly verifiable on Solana explorers.
 $NONPC uses the standard Solana SPL Token Program.  
 No custom token contract is deployed.
 
-The Awakening Flywheel Experiment (AFX) and the Awakening Creator Engine (ACE) are original protocol architectures designed and formally defined by No NPC Society.
+Protocol-level behavior emerges from coordination architecture rather than
+contract complexity.
 
 Operational procedures for treasury management are executed through multisig governance.
 
@@ -65,7 +99,7 @@ This repository will be continuously updated with:
 - Governance resources  
 - Technical references  
 
-Official frozen specifications are maintained via GitHub Releases (see Core Documentation below).
+Official frozen specifications are maintained via GitHub Releases.
 
 ---
 
@@ -110,7 +144,7 @@ Official Release:
   https://crypto.news/navigating-the-path-to-decentralized-governance/
 
 - **Crypto Projects Must Forge Their Own Path Towards Community Governance** (Analytics Insight)  
-  https://www.analyticsinsight.net/cryptocurrency-analytics-insight/crypto-projects-must-forge-own-path-towards-community-governance
+  https://www.analyticsinsight.net/cryptocurrency-analytics-insight/crypto-projects-must-forge-own-pathwards-community-governance
 
 - **Beyond DeFi: How DAOs Are Reshaping Digital Coordination** (U.Today)  
   https://u.today/beyond-defi-how-daos-are-reshaping-digital-coordination
@@ -122,7 +156,7 @@ Official Release:
 Koichi Hatta – Serial Crypto Architect  
 
 Full Profile:  
-[Koichi Hatta Profile](https://github.com/NoNPCSociety/nonpcsociety.github.io/blob/profile-koichi-v1.0/docs/koichi-hatta.md)
+https://github.com/NoNPCSociety/nonpcsociety.github.io/blob/profile-koichi-v1.0/docs/koichi-hatta.md
 
 ---
 
