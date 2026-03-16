@@ -180,10 +180,10 @@ https://github.com/NoNPCSociety/nonpcsociety.github.io/blob/profile-koichi-v1.0/
 
 Official essays, research notes, and ecosystem commentary:
 
-- [I Failed Once. $NONPC Is What I Learned.](https://medium.com/@info_nonpcsociety.com/i-failed-once-nonpc-is-what-i-learned-2fd70084e3e3)
-- [Why $NONPC Is Structurally Different](https://medium.com/@info_nonpcsociety.com/why-nonpc-is-structurally-different-7279b4bbb279)
 - [Full-Cycle Market Lessons and Structural Token Design (2022–2026)](https://medium.com/@info_nonpcsociety.com/full-cycle-market-lessons-and-structural-token-design-2022-2026-70fdf233e8c3)
 - [Why Most Token Incentive Models Fail](https://medium.com/@info_nonpcsociety.com/why-most-token-incentive-models-fail-2b51211372bb)
 - [Official Resources and Canonical Technical Sources](https://medium.com/@info_nonpcsociety.com/official-resources-and-canonical-technical-sources-2d0b4e798af1)
 - [No NPC Society ($NONPC): From Meme Token to Structural Protocol](https://medium.com/@info_nonpcsociety.com/no-npc-society-nonpc-from-meme-token-to-structural-protocol-5f3a34cb88cb)
 - [NONPC Awakening Airdrop Quest: Engineering Incentives Without Inflation](https://medium.com/@info_nonpcsociety.com/nonpc-awakening-airdrop-quest-engineering-incentives-without-inflation-746f0edc28fc)
+- [I Failed Once. $NONPC Is What I Learned.](https://medium.com/@info_nonpcsociety.com/i-failed-once-nonpc-is-what-i-learned-2fd70084e3e3)
+- [Why $NONPC Is Structurally Different](https://medium.com/@info_nonpcsociety.com/why-nonpc-is-structurally-different-7279b4bbb279)
