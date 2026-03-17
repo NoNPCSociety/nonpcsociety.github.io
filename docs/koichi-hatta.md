@@ -152,6 +152,14 @@ Koichi Hatta continues to design token systems focused on structural resilience 
 
 ---
 
+## Published Record
+
+- Medium: https://medium.com/@info_nonpcsociety.com/marumarunft-maru-exchange-listings-corporate-partnerships-and-the-full-record-a7c8f94f5e62
+- Substack: https://nonpc.substack.com/p/who-is-koichi-hatta-a-builders-record
+- Paragraph: https://paragraph.com/@info@nonpcsociety.com/marumarunft-dollarmaru-a-full-cycle-token-case-study
+
+---
+
 End of Document.
 
 
