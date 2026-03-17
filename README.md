@@ -172,7 +172,7 @@ https://medium.com/@info_nonpcsociety.com/i-failed-once-nonpc-is-what-i-learned-
 Koichi Hatta — Serial Crypto Architect
 
 Full Profile:  
-https://github.com/NoNPCSociety/nonpcsociety.github.io/blob/profile-koichi-v1.0/docs/koichi-hatta.md
+https://github.com/NoNPCSociety/nonpcsociety.github.io/blob/main/docs/koichi-hatta.md
 
 ---
 
