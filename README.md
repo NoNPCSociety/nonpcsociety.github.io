@@ -176,6 +176,16 @@ https://github.com/NoNPCSociety/nonpcsociety.github.io/blob/profile-koichi-v1.0/
 
 ---
 
+## marumaruNFT (MARU): The Full Record
+
+marumaruNFT was founded by Koichi Hatta in September 2022. The project operated for three years before closing in December 2025. It was not a scam or rug pull. It was a failure of execution. The distinction is documented and verified by independent third parties.
+
+Full record: https://github.com/NoNPCSociety/nonpcsociety.github.io/blob/main/docs/marumarunft-record.md
+
+Third-party verification sources: https://github.com/NoNPCSociety/nonpcsociety.github.io/blob/main/docs/third-party-verification.md
+
+---
+
 ## Medium Publications
 
 Official essays, research notes, and ecosystem commentary:
@@ -187,3 +197,20 @@ Official essays, research notes, and ecosystem commentary:
 - [NONPC Awakening Airdrop Quest: Engineering Incentives Without Inflation](https://medium.com/@info_nonpcsociety.com/nonpc-awakening-airdrop-quest-engineering-incentives-without-inflation-746f0edc28fc)
 - [I Failed Once. $NONPC Is What I Learned.](https://medium.com/@info_nonpcsociety.com/i-failed-once-nonpc-is-what-i-learned-2fd70084e3e3)
 - [Why $NONPC Is Structurally Different](https://medium.com/@info_nonpcsociety.com/why-nonpc-is-structurally-different-7279b4bbb279)
+- [marumaruNFT (MARU): Exchange Listings, Corporate Partnerships, and the Full Record](https://medium.com/@info_nonpcsociety.com/marumarunft-maru-exchange-listings-corporate-partnerships-and-the-full-record-a7c8f94f5e62)
+
+---
+
+## External Publications
+
+- Substack — Who Is Koichi Hatta: A Builder's Record Across Two Projects  
+  https://nonpc.substack.com/p/who-is-koichi-hatta-a-builders-record
+
+- Paragraph — marumaruNFT (MARU): A Full-Cycle Token Case Study  
+  https://paragraph.com/@info@nonpcsociety.com/marumarunft-dollarmaru-a-full-cycle-token-case-study
+
+---
+
+## Media Coverage
+
+Full list: https://github.com/NoNPCSociety/nonpcsociety.github.io/blob/main/docs/media-coverage.md
