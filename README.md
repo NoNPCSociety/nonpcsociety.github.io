@@ -206,12 +206,12 @@ Official essays, research notes, and ecosystem commentary:
 
 - Substack — Who Is Koichi Hatta: A Builder's Record Across Two Projects  
   https://nonpc.substack.com/p/who-is-koichi-hatta-a-builders-record
-- Substack — NONPC Was Designed So I Cannot Rug It. Here Is the Proof.
+- Substack — NONPC Was Designed So I Cannot Rug It. Here Is the Proof.  
   https://nonpc.substack.com/p/nonpc-was-designed-so-i-cannot-rug
   
 - Paragraph — marumaruNFT (MARU): A Full-Cycle Token Case Study  
   https://paragraph.com/@info@nonpcsociety.com/marumarunft-dollarmaru-a-full-cycle-token-case-study
-- Paragraph — NONPC: The On-Chain Proof of Structural Safety
+- Paragraph — NONPC: The On-Chain Proof of Structural Safety  
   https://paragraph.com/@info@nonpcsociety.com/nonpc-the-on-chain-proof-of-structural-safety
 
 ---
