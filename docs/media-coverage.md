@@ -26,6 +26,7 @@ Official essays, research notes, and ecosystem commentary:
 - [Why $NONPC Is Structurally Different](https://medium.com/@info_nonpcsociety.com/why-nonpc-is-structurally-different-7279b4bbb279)
 - [marumaruNFT (MARU): Exchange Listings, Corporate Partnerships, and the Full Record](https://medium.com/@info_nonpcsociety.com/marumarunft-maru-exchange-listings-corporate-partnerships-and-the-full-record-a7c8f94f5e62)
 - [NONPC Awakening Airdrop Quest: A Practical Guide to Season 1](https://medium.com/@info_nonpcsociety.com/nonpc-awakening-airdrop-quest-a-practical-guide-to-season-1-ac38073fe6b8)
+- [ACE (Awakening Creator Engine): How NONPC Builds Revenue From Within](https://medium.com/@info_nonpcsociety.com/ace-awakening-creator-engine-how-nonpc-builds-revenue-from-within-8d7d324cbdbe)
 
 ---
 
@@ -35,12 +36,16 @@ Official essays, research notes, and ecosystem commentary:
   https://nonpc.substack.com/p/who-is-koichi-hatta-a-builders-record
 - Substack — NONPC Was Designed So I Cannot Rug It. Here Is the Proof.  
   https://nonpc.substack.com/p/nonpc-was-designed-so-i-cannot-rug
+- Substack — The Engine I Promised and Failed to Build. This Time I Did It Differently.  
+  https://nonpc.substack.com/p/the-engine-i-promised-and-failed
   
 - Paragraph — marumaruNFT (MARU): A Full-Cycle Token Case Study  
   https://paragraph.com/@info@nonpcsociety.com/marumarunft-dollarmaru-a-full-cycle-token-case-study
 - Paragraph — NONPC: The On-Chain Proof of Structural Safety  
   https://paragraph.com/@info@nonpcsociety.com/nonpc-the-on-chain-proof-of-structural-safety
-
+- Paragraph — ACE (Awakening Creator Engine): Full Specification and Verification Record  
+  https://paragraph.com/@info@nonpcsociety.com/ace-awakening-creator-engine-full-specification-and-verification-record
+  
 ---
 
 ## Media Coverage
