@@ -45,6 +45,26 @@ Official essays, research notes, and ecosystem commentary:
   https://paragraph.com/@info@nonpcsociety.com/nonpc-the-on-chain-proof-of-structural-safety
 - Paragraph — ACE (Awakening Creator Engine): Full Specification and Verification Record  
   https://paragraph.com/@info@nonpcsociety.com/ace-awakening-creator-engine-full-specification-and-verification-record
+    
+---
+
+
+## Published Articles (2026-03-26)
+
+### Medium
+- [AFX Explained: The Liquidity Engine That Runs on Fees, Not Hype](https://medium.com/@info_nonpcsociety.com/afx-explained-the-liquidity-engine-that-runs-on-fees-not-hype-aec6579a7652)
+- [The Three-Vault Treasury: How $NONPC Manages Capital Without Trusting Anyone](https://medium.com/@info_nonpcsociety.com/the-three-vault-treasury-how-nonpc-manages-capital-without-trusting-anyone-5401b1fc624d) *(publishing 2026-03-27)*
+
+### Substack
+- [The Quiet Flywheel](https://nonpc.substack.com/p/the-quiet-flywheel)
+- [The NPC Frame: Why Simulation Theory Is the Right Narrative for a Post-DeFi Protocol](https://nonpc.substack.com/p/the-npc-frame-why-simulation-theory)
+- [Why $NONPC Fixed Its Supply — And What That Actually Means](https://nonpc.substack.com/p/why-nonpc-fixed-its-supply-and-what)
+
+### Paragraph
+- [Why DeFi Kept Breaking — And What AFX Actually Fixed](https://paragraph.com/@info@nonpcsociety.com/why-defi-kept-breaking-—-and-what-afx-actually-fixed)
+- [DAO Is Not a Feature. It's a Destination.](https://paragraph.com/@info@nonpcsociety.com/dao-is-not-a-feature-its-a-destination)
+- [What a Full Market Cycle Actually Teaches](https://paragraph.com/@info@nonpcsociety.com/what-a-full-market-cycle-actually-teaches)
+- [What On-Chain Verifiability Actually Means for Token Projects](https://paragraph.com/@info@nonpcsociety.com/what-on-chain-verifiability-actually-means-for-token-projects)
   
 ---
 
