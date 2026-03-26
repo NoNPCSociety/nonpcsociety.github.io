@@ -59,12 +59,16 @@ Official essays, research notes, and ecosystem commentary:
 - [The Quiet Flywheel](https://nonpc.substack.com/p/the-quiet-flywheel)
 - [The NPC Frame: Why Simulation Theory Is the Right Narrative for a Post-DeFi Protocol](https://nonpc.substack.com/p/the-npc-frame-why-simulation-theory)
 - [Why $NONPC Fixed Its Supply — And What That Actually Means](https://nonpc.substack.com/p/why-nonpc-fixed-its-supply-and-what)
+- [NONPC Is Not a Meme Token. Here's the Structural Evidence.](https://nonpc.substack.com/p/nonpc-is-not-a-meme-token-heres-the)
+- [When Tier-1 Crypto Media Asks About Your DAO, Something Is Different](https://nonpc.substack.com/p/when-tier-1-crypto-media-asks-about)
 
 ### Paragraph
 - [Why DeFi Kept Breaking — And What AFX Actually Fixed](https://paragraph.com/@info@nonpcsociety.com/why-defi-kept-breaking-—-and-what-afx-actually-fixed)
 - [DAO Is Not a Feature. It's a Destination.](https://paragraph.com/@info@nonpcsociety.com/dao-is-not-a-feature-its-a-destination)
 - [What a Full Market Cycle Actually Teaches](https://paragraph.com/@info@nonpcsociety.com/what-a-full-market-cycle-actually-teaches)
 - [What On-Chain Verifiability Actually Means for Token Projects](https://paragraph.com/@info@nonpcsociety.com/what-on-chain-verifiability-actually-means-for-token-projects)
+- [From Meme Token Shell to Protocol Architecture: The $NONPC Transition](https://paragraph.com/@info@nonpcsociety.com/from-meme-token-shell-to-protocol-architecture-the-dollarnonpc-transition)
+- [The Media Record: What Independent Editorial Coverage Actually Verifies](https://paragraph.com/@info@nonpcsociety.com/the-media-record-what-independent-editorial-coverage-actually-verifies)
   
 ---
 
