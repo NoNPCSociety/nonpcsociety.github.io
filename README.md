@@ -219,6 +219,10 @@ Official essays, research notes, and ecosystem commentary:
   https://nonpc.substack.com/p/the-npc-frame-why-simulation-theory
 - Substack — Why $NONPC Fixed Its Supply  
   https://nonpc.substack.com/p/why-nonpc-fixed-its-supply-and-what
+- Substack — NONPC Is Not a Meme Token. Here's the Structural Evidence.  
+  https://nonpc.substack.com/p/nonpc-is-not-a-meme-token-heres-the
+- Substack — When Tier-1 Crypto Media Asks About Your DAO, Something Is Different  
+  https://nonpc.substack.com/p/when-tier-1-crypto-media-asks-about
   
 - Paragraph — marumaruNFT (MARU): A Full-Cycle Token Case Study  
   https://paragraph.com/@info@nonpcsociety.com/marumarunft-dollarmaru-a-full-cycle-token-case-study
@@ -234,7 +238,11 @@ Official essays, research notes, and ecosystem commentary:
   https://paragraph.com/@info@nonpcsociety.com/what-a-full-market-cycle-actually-teaches
 - Paragraph — What On-Chain Verifiability Actually Means  
   https://paragraph.com/@info@nonpcsociety.com/what-on-chain-verifiability-actually-means-for-token-projects
-  
+- Paragraph — From Meme Token Shell to Protocol Architecture: The $NONPC Transition  
+  https://paragraph.com/@info@nonpcsociety.com/from-meme-token-shell-to-protocol-architecture-the-dollarnonpc-transition
+- Paragraph — The Media Record: What Independent Editorial Coverage Actually Verifies  
+  https://paragraph.com/@info@nonpcsociety.com/the-media-record-what-independent-editorial-coverage-actually-verifies
+
 ---
 
 ## Media Coverage
