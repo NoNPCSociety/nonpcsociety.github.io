@@ -53,7 +53,7 @@ Official essays, research notes, and ecosystem commentary:
 
 ### Medium
 - [AFX Explained: The Liquidity Engine That Runs on Fees, Not Hype](https://medium.com/@info_nonpcsociety.com/afx-explained-the-liquidity-engine-that-runs-on-fees-not-hype-aec6579a7652)
-- [The Three-Vault Treasury: How $NONPC Manages Capital Without Trusting Anyone](https://medium.com/@info_nonpcsociety.com/the-three-vault-treasury-how-nonpc-manages-capital-without-trusting-anyone-5401b1fc624d) *(publishing 2026-03-27)*
+- [The Three-Vault Treasury: How $NONPC Manages Capital Without Trusting Anyone](https://medium.com/@info_nonpcsociety.com/the-three-vault-treasury-how-nonpc-manages-capital-without-trusting-anyone-5401b1fc624d)
 
 ### Substack
 - [The Quiet Flywheel](https://nonpc.substack.com/p/the-quiet-flywheel)
