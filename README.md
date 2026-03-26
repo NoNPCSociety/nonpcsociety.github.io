@@ -190,6 +190,8 @@ Third-party verification sources: https://github.com/NoNPCSociety/nonpcsociety.g
 
 Official essays, research notes, and ecosystem commentary:
 
+- [AFX Explained: The Liquidity Engine That Runs on Fees, Not Hype](https://medium.com/@info_nonpcsociety.com/afx-explained-the-liquidity-engine-that-runs-on-fees-not-hype-aec6579a7652)
+- [The Three-Vault Treasury: How $NONPC Manages Capital Without Trusting Anyone](https://medium.com/@info_nonpcsociety.com/the-three-vault-treasury-how-nonpc-manages-capital-without-trusting-anyone-5401b1fc624d)
 - [Full-Cycle Market Lessons and Structural Token Design (2022–2026)](https://medium.com/@info_nonpcsociety.com/full-cycle-market-lessons-and-structural-token-design-2022-2026-70fdf233e8c3)
 - [Why Most Token Incentive Models Fail](https://medium.com/@info_nonpcsociety.com/why-most-token-incentive-models-fail-2b51211372bb)
 - [Official Resources and Canonical Technical Sources](https://medium.com/@info_nonpcsociety.com/official-resources-and-canonical-technical-sources-2d0b4e798af1)
