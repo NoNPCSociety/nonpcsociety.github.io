@@ -213,11 +213,11 @@ Official essays, research notes, and ecosystem commentary:
   https://nonpc.substack.com/p/nonpc-was-designed-so-i-cannot-rug
 - Substack — The Engine I Promised and Failed to Build. This Time I Did It Differently.  
   https://nonpc.substack.com/p/the-engine-i-promised-and-failed
-- Substack — The Quiet Flywheel
+- Substack — The Quiet Flywheel  
   https://nonpc.substack.com/p/the-quiet-flywheel
-- Substack — The NPC Frame
+- Substack — The NPC Frame  
   https://nonpc.substack.com/p/the-npc-frame-why-simulation-theory
-- Substack — Why $NONPC Fixed Its Supply
+- Substack — Why $NONPC Fixed Its Supply  
   https://nonpc.substack.com/p/why-nonpc-fixed-its-supply-and-what
   
 - Paragraph — marumaruNFT (MARU): A Full-Cycle Token Case Study  
@@ -226,13 +226,13 @@ Official essays, research notes, and ecosystem commentary:
   https://paragraph.com/@info@nonpcsociety.com/nonpc-the-on-chain-proof-of-structural-safety
 - Paragraph — ACE (Awakening Creator Engine): Full Specification and Verification Record  
   https://paragraph.com/@info@nonpcsociety.com/ace-awakening-creator-engine-full-specification-and-verification-record
-- Paragraph — Why DeFi Kept Breaking
+- Paragraph — Why DeFi Kept Breaking  
   https://paragraph.com/@info@nonpcsociety.com/why-defi-kept-breaking-—-and-what-afx-actually-fixed
-- Paragraph — DAO Is Not a Feature
+- Paragraph — DAO Is Not a Feature  
   https://paragraph.com/@info@nonpcsociety.com/dao-is-not-a-feature-its-a-destination
-- Paragraph — What a Full Market Cycle Actually Teaches
+- Paragraph — What a Full Market Cycle Actually Teaches  
   https://paragraph.com/@info@nonpcsociety.com/what-a-full-market-cycle-actually-teaches
-- Paragraph — What On-Chain Verifiability Actually Means
+- Paragraph — What On-Chain Verifiability Actually Means  
   https://paragraph.com/@info@nonpcsociety.com/what-on-chain-verifiability-actually-means-for-token-projects
   
 ---
