@@ -1,7 +1,7 @@
 ## marumaruNFT Media Coverage
 
-- U.Today (2023): https://u.today/how-japanese-nightclubs-are-revolutionizing-nft-industry-founder-of-marumarunft-spills-all-secrets
-- Bitcoin.com (marumaruNFT): https://news.bitcoin.com/marumarunft-revolutionizing-cabaret-clubs-and-host-clubs-with-dynamic-nfts-and-market-competition/
+- U.Today: https://u.today/how-japanese-nightclubs-are-revolutionizing-nft-industry-founder-of-marumarunft-spills-all-secrets
+- Bitcoin.com: https://news.bitcoin.com/marumarunft-revolutionizing-cabaret-clubs-and-host-clubs-with-dynamic-nfts-and-market-competition/
 
 ## NONPC Media Coverage
 
@@ -10,6 +10,14 @@
 - Analytics Insight: https://www.analyticsinsight.net/cryptocurrency-analytics-insight/crypto-projects-must-forge-own-path-towards-community-governance
 - Coinpaper: https://coinpaper.com/13867/web3-fails-to-empower-without-education-clarity-and-trust/
 - U.Today (NONPC): https://u.today/beyond-defi-how-daos-are-reshaping-digital-coordination
+- CoinGape: https://coingape.com/blog/why-meme-culture-is-evolving-and-shifting-toward-purpose-consciousness-and-culture/
+- Coinpedia: https://coinpedia.org/information/you-could-be-living-in-a-simulation-but-can-you-wake-up/
+- Cryptowisser: https://www.cryptowisser.com/beyond-the-npc-meme-the-rise-of-a-cultural-asset-and-mindset-behind-it
+- MPost: https://mpost.io/no-npc-society-redefines-meme-culture-through-digital-consciousness-and-decentralized-governance/
+- CoinCu: https://coincu.com/markets/how-the-2026-memecoin-surge-reflects-cryptos-decentralized-reset/
+- CryptoUpdates: https://www.thecryptoupdates.com/3-crypto-gems-backed-by-real-demand-real-use-and-real-interest/
+- CoinGabbar: https://www.coingabbar.com/en/crypto-blogs-details/top-3-underrated-solana-memecoins-to-watch-in-2026
+- https://www.coingabbar.com/en/crypto-blogs-details/memecoins-lost-credibility-three-key-reasons-explained
 
 ---
 
