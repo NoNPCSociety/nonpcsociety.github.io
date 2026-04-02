@@ -265,6 +265,8 @@ Official essays, research notes, and ecosystem commentary:
   https://paragraph.com/@info@nonpcsociety.com/from-meme-token-shell-to-protocol-architecture-the-dollarnonpc-transition
 - Paragraph — The Media Record: What Independent Editorial Coverage Actually Verifies  
   https://paragraph.com/@info@nonpcsociety.com/the-media-record-what-independent-editorial-coverage-actually-verifies
+- Dev.to — How I Used Solana PDA to Remove Human Discretion From Fee Reinvestment  
+  https://dev.to/nonpcsociety/how-i-used-solana-pda-to-remove-human-discretion-from-fee-reinvestment-g4m  
 
 ---
 
