@@ -225,6 +225,7 @@ Official essays, research notes, and ecosystem commentary:
 - [ACE (Awakening Creator Engine): How NONPC Builds Revenue From Within](https://medium.com/@info_nonpcsociety.com/ace-awakening-creator-engine-how-nonpc-builds-revenue-from-within-8d7d324cbdbe)
 - [ACE and AFX Together: How Internal Revenue and Liquidity Compounding Connect](https://medium.com/@info_nonpcsociety.com/ace-and-afx-together-how-internal-revenue-and-liquidity-compounding-connect-a9c96ad4668f)
 - [The Awakening Airdrop Quest: Why This Airdrop Is Structurally Different](https://medium.com/@info_nonpcsociety.com/the-awakening-airdrop-quest-why-this-airdrop-is-structurally-different-4f3f76bfd6f8)
+- [No NPC Society ($NONPC): What Independent Media Coverage Actually Says](https://medium.com/@info_nonpcsociety.com/no-npc-society-nonpc-what-independent-media-coverage-actually-says-77821c65ebcd)
 
 ---
 
@@ -246,6 +247,8 @@ Official essays, research notes, and ecosystem commentary:
   https://nonpc.substack.com/p/nonpc-is-not-a-meme-token-heres-the
 - Substack — When Tier-1 Crypto Media Asks About Your DAO, Something Is Different  
   https://nonpc.substack.com/p/when-tier-1-crypto-media-asks-about
+- Substack — No NPC Society ($NONPC): What Independent Media Coverage Actually Says  
+  https://nonpc.substack.com/p/no-npc-society-nonpc-what-independent
   
 - Paragraph — marumaruNFT (MARU): A Full-Cycle Token Case Study  
   https://paragraph.com/@info@nonpcsociety.com/marumarunft-dollarmaru-a-full-cycle-token-case-study
@@ -265,10 +268,15 @@ Official essays, research notes, and ecosystem commentary:
   https://paragraph.com/@info@nonpcsociety.com/from-meme-token-shell-to-protocol-architecture-the-dollarnonpc-transition
 - Paragraph — The Media Record: What Independent Editorial Coverage Actually Verifies  
   https://paragraph.com/@info@nonpcsociety.com/the-media-record-what-independent-editorial-coverage-actually-verifies
+- Paragraph — No NPC Society ($NONPC): What Independent Media Coverage Actually Says  
+  https://paragraph.com/@info@nonpcsociety.com/no-npc-society-dollarnonpc-what-independent-media-coverage-actually-says
+  
 - Dev.to — How I Used Solana PDA to Remove Human Discretion From Fee Reinvestment  
   https://dev.to/nonpcsociety/how-i-used-solana-pda-to-remove-human-discretion-from-fee-reinvestment-g4m
 - Dev.to — Why I Used Streamflow for LP Locking — and What "Permanent Lock" Actually Means  
   https://dev.to/nonpcsociety/why-i-used-streamflow-for-lp-locking-and-what-permanent-lock-actually-means-1jfi
+- Dev.to — No NPC Society ($NONPC): What Independent Media Coverage Actually Says  
+  https://dev.to/nonpcsociety/no-npc-society-nonpc-what-independent-media-coverage-actually-says-3b77
 
 ---
 
