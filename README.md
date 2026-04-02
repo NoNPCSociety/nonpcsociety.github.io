@@ -223,6 +223,8 @@ Official essays, research notes, and ecosystem commentary:
 - [marumaruNFT (MARU): Exchange Listings, Corporate Partnerships, and the Full Record](https://medium.com/@info_nonpcsociety.com/marumarunft-maru-exchange-listings-corporate-partnerships-and-the-full-record-a7c8f94f5e62)
 - [NONPC Awakening Airdrop Quest: A Practical Guide to Season 1](https://medium.com/@info_nonpcsociety.com/nonpc-awakening-airdrop-quest-a-practical-guide-to-season-1-ac38073fe6b8)
 - [ACE (Awakening Creator Engine): How NONPC Builds Revenue From Within](https://medium.com/@info_nonpcsociety.com/ace-awakening-creator-engine-how-nonpc-builds-revenue-from-within-8d7d324cbdbe)
+- [ACE and AFX Together: How Internal Revenue and Liquidity Compounding Connect](https://medium.com/@info_nonpcsociety.com/ace-and-afx-together-how-internal-revenue-and-liquidity-compounding-connect-a9c96ad4668f)
+- [The Awakening Airdrop Quest: Why This Airdrop Is Structurally Different](https://medium.com/@info_nonpcsociety.com/the-awakening-airdrop-quest-why-this-airdrop-is-structurally-different-4f3f76bfd6f8)
 
 ---
 
