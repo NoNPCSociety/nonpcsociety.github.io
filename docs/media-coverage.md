@@ -56,7 +56,6 @@ Official essays, research notes, and ecosystem commentary:
     
 ---
 
-
 ## Published Articles (2026-03-26)
 
 ### Medium
@@ -77,7 +76,15 @@ Official essays, research notes, and ecosystem commentary:
 - [What On-Chain Verifiability Actually Means for Token Projects](https://paragraph.com/@info@nonpcsociety.com/what-on-chain-verifiability-actually-means-for-token-projects)
 - [From Meme Token Shell to Protocol Architecture: The $NONPC Transition](https://paragraph.com/@info@nonpcsociety.com/from-meme-token-shell-to-protocol-architecture-the-dollarnonpc-transition)
 - [The Media Record: What Independent Editorial Coverage Actually Verifies](https://paragraph.com/@info@nonpcsociety.com/the-media-record-what-independent-editorial-coverage-actually-verifies)
-  
+
+---
+
+## Published Articles (2026-03-27)
+
+### Medium
+- [ACE and AFX Together: How Internal Revenue and Liquidity Compounding Connect](https://medium.com/@info_nonpcsociety.com/ace-and-afx-together-how-internal-revenue-and-liquidity-compounding-connect-a9c96ad4668f)
+- [The Awakening Airdrop Quest: Why This Airdrop Is Structurally Different](https://medium.com/@info_nonpcsociety.com/the-awakening-airdrop-quest-why-this-airdrop-is-structurally-different-4f3f76bfd6f8)
+
 ---
 
 ## Media Coverage
