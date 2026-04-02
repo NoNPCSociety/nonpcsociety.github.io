@@ -277,6 +277,8 @@ Official essays, research notes, and ecosystem commentary:
   https://dev.to/nonpcsociety/why-i-used-streamflow-for-lp-locking-and-what-permanent-lock-actually-means-1jfi
 - Dev.to — No NPC Society ($NONPC): What Independent Media Coverage Actually Says  
   https://dev.to/nonpcsociety/no-npc-society-nonpc-what-independent-media-coverage-actually-says-3b77
+- Dev.to — Designing MEV Resistance Into a Compounding Liquidity Engine: The AFX Approach  
+  https://dev.to/nonpcsociety/designing-mev-resistance-into-a-compounding-liquidity-engine-the-afx-approach-pf0
 
 - Hashnode — What a DAO Transition Roadmap Actually Requires — and Why Most Projects Skip It  
   https://nonpcsociety.hashnode.dev/what-a-dao-transition-roadmap-actually-requires-and-why-most-projects-skip-it
