@@ -92,6 +92,16 @@ Official essays, research notes, and ecosystem commentary:
 ### Dev
 - [How I Used Solana PDA to Remove Human Discretion From Fee Reinvestment](https://dev.to/nonpcsociety/how-i-used-solana-pda-to-remove-human-discretion-from-fee-reinvestment-g4m)
 - [Why I Used Streamflow for LP Locking — and What "Permanent Lock" Actually Means](https://dev.to/nonpcsociety/why-i-used-streamflow-for-lp-locking-and-what-permanent-lock-actually-means-1jfi)
+- [No NPC Society ($NONPC): What Independent Media Coverage Actually Says](https://dev.to/nonpcsociety/no-npc-society-nonpc-what-independent-media-coverage-actually-says-3b77)
+
+### Medium
+- [No NPC Society ($NONPC): What Independent Media Coverage Actually Says](https://medium.com/@info_nonpcsociety.com/no-npc-society-nonpc-what-independent-media-coverage-actually-says-77821c65ebcd)
+
+### Substack
+- [No NPC Society ($NONPC): What Independent Media Coverage Actually Saysl](https://nonpc.substack.com/p/no-npc-society-nonpc-what-independent)
+
+### Paragraph
+- [No NPC Society ($NONPC): What Independent Media Coverage Actually Says](https://paragraph.com/@info@nonpcsociety.com/no-npc-society-dollarnonpc-what-independent-media-coverage-actually-says)
 
 ---
 
