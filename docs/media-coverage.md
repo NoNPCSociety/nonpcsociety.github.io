@@ -6,10 +6,10 @@
 ## NONPC Media Coverage
 
 - Bitcoin.com: https://news.bitcoin.com/are-daos-pipe-dreams-nonpc-founder-says-discipline-not-privilege-decides-survival/
+- U.Today (NONPC): https://u.today/beyond-defi-how-daos-are-reshaping-digital-coordination
 - Crypto.News: https://crypto.news/navigating-the-path-to-decentralized-governance/
 - Analytics Insight: https://www.analyticsinsight.net/cryptocurrency-analytics-insight/crypto-projects-must-forge-own-path-towards-community-governance
 - Coinpaper: https://coinpaper.com/13867/web3-fails-to-empower-without-education-clarity-and-trust/
-- U.Today (NONPC): https://u.today/beyond-defi-how-daos-are-reshaping-digital-coordination
 - CoinGape: https://coingape.com/blog/why-meme-culture-is-evolving-and-shifting-toward-purpose-consciousness-and-culture/
 - Coinpedia: https://coinpedia.org/information/you-could-be-living-in-a-simulation-but-can-you-wake-up/
 - Cryptowisser: https://www.cryptowisser.com/beyond-the-npc-meme-the-rise-of-a-cultural-asset-and-mindset-behind-it
