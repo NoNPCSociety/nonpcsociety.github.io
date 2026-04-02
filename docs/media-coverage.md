@@ -87,6 +87,13 @@ Official essays, research notes, and ecosystem commentary:
 
 ---
 
+## Published Articles (2026-04-02)
+
+### Dev
+- [How I Used Solana PDA to Remove Human Discretion From Fee Reinvestment](https://dev.to/nonpcsociety/how-i-used-solana-pda-to-remove-human-discretion-from-fee-reinvestment-g4m)
+
+---
+
 ## Media Coverage
 
 Full list: https://github.com/NoNPCSociety/nonpcsociety.github.io/blob/main/docs/media-coverage.md
