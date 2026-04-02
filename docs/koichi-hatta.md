@@ -133,23 +133,23 @@ Koichi Hatta continues to design token systems focused on structural resilience 
 
 ## Media Coverage
 
+- **Are DAOs Pipe Dreams? NONPC Founder Says Discipline Not Privilege Decides Survival** (Bitcoin.com)  
+  https://news.bitcoin.com/are-daos-pipe-dreams-nonpc-founder-says-discipline-not-privilege-decides-survival/
+
+- **Beyond DeFi: How DAOs Are Reshaping Digital Coordination** (U.Today)  
+  https://u.today/beyond-defi-how-daos-are-reshaping-digital-coordination
+
 - **Web3 Fails to Empower Without Education, Clarity and Trust** (Coinpaper)  
   https://coinpaper.com/13867/web3-fails-to-empower-without-education-clarity-and-trust/
 
 - **3 Crypto Gems Backed by Real Demand, Real Use, and Real Interest** (TheCryptoUpdates)  
   https://www.thecryptoupdates.com/3-crypto-gems-backed-by-real-demand-real-use-and-real-interest/
 
-- **Are DAOs Pipe Dreams? NONPC Founder Says Discipline Not Privilege Decides Survival** (Bitcoin.com)  
-  https://news.bitcoin.com/are-daos-pipe-dreams-nonpc-founder-says-discipline-not-privilege-decides-survival/
-
 - **Navigating the Path to Decentralized Governance** (Crypto.News)  
   https://crypto.news/navigating-the-path-to-decentralized-governance/
 
 - **Crypto Projects Must Forge Their Own Path Towards Community Governance** (Analytics Insight)  
   https://www.analyticsinsight.net/cryptocurrency-analytics-insight/crypto-projects-must-forge-own-path-towards-community-governance
-
-- **Beyond DeFi: How DAOs Are Reshaping Digital Coordination** (U.Today)  
-  https://u.today/beyond-defi-how-daos-are-reshaping-digital-coordination
 
 - **Why Meme Culture Is Evolving and Shifting Toward Purpose, Consciousness and Culture** (CoinGape)  
   https://coingape.com/blog/why-meme-culture-is-evolving-and-shifting-toward-purpose-consciousness-and-culture/
