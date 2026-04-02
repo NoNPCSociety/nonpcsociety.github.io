@@ -267,7 +267,7 @@ Official essays, research notes, and ecosystem commentary:
   https://paragraph.com/@info@nonpcsociety.com/the-media-record-what-independent-editorial-coverage-actually-verifies
 - Dev.to — How I Used Solana PDA to Remove Human Discretion From Fee Reinvestment  
   https://dev.to/nonpcsociety/how-i-used-solana-pda-to-remove-human-discretion-from-fee-reinvestment-g4m
-- Dev.to — Why I Used Streamflow for LP Locking — and What "Permanent Lock" Actually Means
+- Dev.to — Why I Used Streamflow for LP Locking — and What "Permanent Lock" Actually Means  
   https://dev.to/nonpcsociety/why-i-used-streamflow-for-lp-locking-and-what-permanent-lock-actually-means-1jfi
 
 ---
