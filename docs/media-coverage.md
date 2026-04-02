@@ -105,6 +105,7 @@ Official essays, research notes, and ecosystem commentary:
 
 ### Hashnode
 - [What a DAO Transition Roadmap Actually Requires — and Why Most Projects Skip It](https://nonpcsociety.hashnode.dev/what-a-dao-transition-roadmap-actually-requires-and-why-most-projects-skip-it)
+- [Why I Split the $NONPC Treasury Into Three Separate Vaults](https://nonpcsociety.hashnode.dev/why-i-split-the-nonpc-treasury-into-three-separate-vaults)
 
 ---
 
