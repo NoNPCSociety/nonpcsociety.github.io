@@ -109,6 +109,13 @@ Official essays, research notes, and ecosystem commentary:
 
 ---
 
+## Published Articles (2026-04-03)
+
+### Dev
+- [Designing MEV Resistance Into a Compounding Liquidity Engine: The AFX Approach](https://dev.to/nonpcsociety/designing-mev-resistance-into-a-compounding-liquidity-engine-the-afx-approach-pf0)
+
+---
+
 ## Media Coverage
 
 Full list: https://github.com/NoNPCSociety/nonpcsociety.github.io/blob/main/docs/media-coverage.md
