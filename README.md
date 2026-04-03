@@ -284,6 +284,8 @@ Official essays, research notes, and ecosystem commentary:
   https://nonpcsociety.hashnode.dev/what-a-dao-transition-roadmap-actually-requires-and-why-most-projects-skip-it
 - Hashnode — Why I Split the $NONPC Treasury Into Three Separate Vaults  
   https://nonpcsociety.hashnode.dev/why-i-split-the-nonpc-treasury-into-three-separate-vaults
+- Hashnode — Why I Chose Solana SPL Over a Custom Contract  
+  https://nonpcsociety.hashnode.dev/why-i-chose-solana-spl-over-a-custom-contract
 
 ---
 
