@@ -114,6 +114,9 @@ Official essays, research notes, and ecosystem commentary:
 ### Dev
 - [Designing MEV Resistance Into a Compounding Liquidity Engine: The AFX Approach](https://dev.to/nonpcsociety/designing-mev-resistance-into-a-compounding-liquidity-engine-the-afx-approach-pf0)
 
+### Hashnode
+- [Why I Chose Solana SPL Over a Custom Contract](https://nonpcsociety.hashnode.dev/why-i-chose-solana-spl-over-a-custom-contract)
+
 ---
 
 ## Media Coverage
