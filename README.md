@@ -172,7 +172,10 @@ Official Release:
   https://www.coingabbar.com/en/crypto-blogs-details/top-3-underrated-solana-memecoins-to-watch-in-2026
   
 - **Memecoins Lost Credibility — Three Key Reasons Explained** (CoinGabbar)  
-  https://www.coingabbar.com/en/crypto-blogs-details/memecoins-lost-credibility-three-key-reasons-explained 
+  https://www.coingabbar.com/en/crypto-blogs-details/memecoins-lost-credibility-three-key-reasons-explained
+
+- **I Ran a Token Project for 3 Years. Here Is What Actually Happened.** (HackerNoon)  
+  https://hackernoon.com/i-ran-a-token-project-for-3-years-here-is-what-actually-happened
 
 ---
 
@@ -286,6 +289,9 @@ Official essays, research notes, and ecosystem commentary:
   https://nonpcsociety.hashnode.dev/why-i-split-the-nonpc-treasury-into-three-separate-vaults
 - Hashnode — Why I Chose Solana SPL Over a Custom Contract  
   https://nonpcsociety.hashnode.dev/why-i-chose-solana-spl-over-a-custom-contract
+
+- HackerNoon — I Ran a Token Project for 3 Years. Here Is What Actually Happened.  
+  https://hackernoon.com/i-ran-a-token-project-for-3-years-here-is-what-actually-happened
 
 ---
 
