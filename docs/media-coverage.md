@@ -18,6 +18,7 @@
 - CryptoUpdates: https://www.thecryptoupdates.com/3-crypto-gems-backed-by-real-demand-real-use-and-real-interest/
 - CoinGabbar: https://www.coingabbar.com/en/crypto-blogs-details/top-3-underrated-solana-memecoins-to-watch-in-2026
 - CoinGabbar: https://www.coingabbar.com/en/crypto-blogs-details/memecoins-lost-credibility-three-key-reasons-explained
+- HackerNoon: https://hackernoon.com/i-ran-a-token-project-for-3-years-here-is-what-actually-happened
 
 ---
 
@@ -35,7 +36,6 @@ Official essays, research notes, and ecosystem commentary:
 - [marumaruNFT (MARU): Exchange Listings, Corporate Partnerships, and the Full Record](https://medium.com/@info_nonpcsociety.com/marumarunft-maru-exchange-listings-corporate-partnerships-and-the-full-record-a7c8f94f5e62)
 - [NONPC Awakening Airdrop Quest: A Practical Guide to Season 1](https://medium.com/@info_nonpcsociety.com/nonpc-awakening-airdrop-quest-a-practical-guide-to-season-1-ac38073fe6b8)
 - [ACE (Awakening Creator Engine): How NONPC Builds Revenue From Within](https://medium.com/@info_nonpcsociety.com/ace-awakening-creator-engine-how-nonpc-builds-revenue-from-within-8d7d324cbdbe)
-- [I Ran a Token Project for 3 Years. Here Is What Actually Happened.](https://hackernoon.com/i-ran-a-token-project-for-3-years-here-is-what-actually-happened)
 
 ---
 
