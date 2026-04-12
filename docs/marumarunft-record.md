@@ -64,6 +64,7 @@ Public institutions and tourism organizations operating under government designa
 Verified source:
 
 - Official press release: https://prtimes.jp/main/html/rd/p/000000035.000038172.html
+- Video: https://youtube.com/shorts/3vUj-xP0DJE
 
 ---
 
