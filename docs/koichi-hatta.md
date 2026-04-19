@@ -175,6 +175,9 @@ Koichi Hatta continues to design token systems focused on structural resilience 
 - **I Ran a Token Project for 3 Years. Here Is What Actually Happened.** (HackerNoon)  
   https://hackernoon.com/i-ran-a-token-project-for-3-years-here-is-what-actually-happened
 
+- **Scam or Failure? How Third-Party Verification Actually Separates the Two in Crypto** (HackerNoon)  
+  https://hackernoon.com/scam-or-failure-how-third-party-verification-actually-separates-the-two-in-crypto
+
 ---
 
 ## Published Record
