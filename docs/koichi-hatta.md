@@ -28,6 +28,8 @@ He is the architect of the Awakening Flywheel Experiment (AFX), a structural liq
 
 marumaruNFT was an independently launched token project designed and led by Koichi Hatta.
 
+> Full documentation: [marumaruNFT Full Project Record](./marumarunft-record.md)
+
 ### 2.1 Launch & Timeline
 
 - Launch: September 2022 on PancakeSwap
